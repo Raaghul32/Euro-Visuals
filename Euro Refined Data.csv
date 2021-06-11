@@ -1,0 +1,623 @@
+Name,Club,Country,Role,PLY Height,PLY Weight,PLY DoB,PLY Foot,PLY Birth Area,TME Area Name,Current Time,Age,Leagues
+Gianluigi Donnarumma ,Milan,Italy,Goalkeeper,196,90,1999-02-25 00:00:00.000000,right,Italy,Italy,2021-06-11 14:12:58.835670,22,Italy Leagues
+Alex Meret ,Napoli,Italy,Goalkeeper,190,77,1997-03-22 00:00:00.000000,left,Italy,Italy,2021-06-11 14:12:58.835670,24,Italy Leagues
+Salvatore Sirigu ,Torino,Italy,Goalkeeper,192,85,1987-01-12 00:00:00.000000,right,Italy,Italy,2021-06-11 14:12:58.835670,34,Italy Leagues
+Francesco Acerbi ,Lazio,Italy,Defender,192,88,1988-02-10 00:00:00.000000,left,Italy,Italy,2021-06-11 14:12:58.835670,33,Italy Leagues
+Alessandro Bastoni ,Inter,Italy,Defender,190,75,1999-04-13 00:00:00.000000,left,Italy,Italy,2021-06-11 14:12:58.835670,22,Italy Leagues
+Leonardo Bonucci ,Juventus,Italy,Defender,190,82,1987-05-01 00:00:00.000000,right,Italy,Italy,2021-06-11 14:12:58.835670,34,Italy Leagues
+Giorgio Chiellini ,Juventus,Italy,Defender,187,86,1984-08-14 00:00:00.000000,left,Italy,Italy,2021-06-11 14:12:58.835670,37,Italy Leagues
+Giovanni Di Lorenzo ,Napoli,Italy,Defender,182,80,1993-08-04 00:00:00.000000,right,Italy,Italy,2021-06-11 14:12:58.835670,28,Italy Leagues
+Emerson ,Chelsea,Italy,Defender,176,79,1994-08-03 00:00:00.000000,left,Brazil,England,2021-06-11 14:12:58.835670,27,England Leagues
+Alessandro Florenzi ,PSG,Italy,Defender,173,67,1991-03-11 00:00:00.000000,right,Italy,France,2021-06-11 14:12:58.835670,30,France Leagues
+Leonardo Spinazzola ,Roma,Italy,Defender,186,75,1993-03-25 00:00:00.000000,right,Italy,Italy,2021-06-11 14:12:58.835670,28,Italy Leagues
+Rafael Tolói ,Atalanta,Italy,Defender,185,75,1990-10-10 00:00:00.000000,right,Brazil,Italy,2021-06-11 14:12:58.835670,31,Italy Leagues
+Nicolò Barella ,Inter,Italy,Midfielder,172,68,1997-02-07 00:00:00.000000,right,Italy,Italy,2021-06-11 14:12:58.835670,24,Italy Leagues
+Federico Bernardeschi ,Juventus,Italy,Midfielder,185,77,1994-02-16 00:00:00.000000,left,Italy,Italy,2021-06-11 14:12:58.835670,27,Italy Leagues
+Federico Chiesa ,Juventus,Italy,Midfielder,175,70,1997-10-25 00:00:00.000000,right,Italy,Italy,2021-06-11 14:12:58.835670,24,Italy Leagues
+Bryan Cristante ,Roma,Italy,Midfielder,186,80,1995-03-03 00:00:00.000000,right,Italy,Italy,2021-06-11 14:12:58.835670,26,Italy Leagues
+Jorginho ,Chelsea,Italy,Midfielder,180,68,1991-12-20 00:00:00.000000,right,Brazil,England,2021-06-11 14:12:58.835670,29,England Leagues
+Manuel Locatelli ,Sassuolo,Italy,Midfielder,185,75,1998-01-08 00:00:00.000000,right,Italy,Italy,2021-06-11 14:12:58.835670,23,Italy Leagues
+Lorenzo Pellegrini ,Roma,Italy,Midfielder,186,77,1996-06-19 00:00:00.000000,right,Italy,Italy,2021-06-11 14:12:58.835670,25,Italy Leagues
+Stefano Sensi ,Inter,Italy,Midfielder,168,62,1995-08-05 00:00:00.000000,right,Italy,Italy,2021-06-11 14:12:58.835670,26,Italy Leagues
+Marco Verratti ,PSG,Italy,Midfielder,165,60,1992-11-05 00:00:00.000000,right,Italy,France,2021-06-11 14:12:58.835670,29,France Leagues
+Andrea Belotti ,Torino,Italy,Forward,181,84,1993-12-20 00:00:00.000000,right,Italy,Italy,2021-06-11 14:12:58.835670,27,Italy Leagues
+Domenico Berardi ,Sassuolo,Italy,Forward,183,72,1994-08-01 00:00:00.000000,left,Italy,Italy,2021-06-11 14:12:58.835670,27,Italy Leagues
+Ciro Immobile ,Lazio,Italy,Forward,185,85,1990-02-20 00:00:00.000000,right,Italy,Italy,2021-06-11 14:12:58.835670,31,Italy Leagues
+Lorenzo Insigne ,Napoli,Italy,Forward,163,59,1991-06-04 00:00:00.000000,right,Italy,Italy,2021-06-11 14:12:58.835670,30,Italy Leagues
+Giacomo Raspadori ,Sassuolo,Italy,Forward,172,69,2000-02-18 00:00:00.000000,right,Italy,Italy,2021-06-11 14:12:58.835670,21,Italy Leagues
+Altay Bayındır ,Fenerbahçe,Turkey,Goalkeeper,198,89,1998-04-14 00:00:00.000000,right,Turkey,Turkey,2021-06-11 14:12:58.835670,23,Turkey Leagues
+Mert Günok ,İstanbul Başakşehir,Turkey,Goalkeeper,196,92,1989-03-01 00:00:00.000000,right,Turkey,Turkey,2021-06-11 14:12:58.835670,32,Turkey Leagues
+Uğurcan Çakır ,Trabzonspor,Turkey,Goalkeeper,188,78,1996-04-05 00:00:00.000000,right,Turkey,Turkey,2021-06-11 14:12:58.835670,25,Turkey Leagues
+Zeki Çelik ,LOSC Lille,Turkey,Defender,180,78,1997-02-17 00:00:00.000000,right,Turkey,France,2021-06-11 14:12:58.835670,24,France Leagues
+Çağlar Söyüncü ,Leicester,Turkey,Defender,185,82,1996-05-23 00:00:00.000000,right,Turkey,England,2021-06-11 14:12:58.835670,25,England Leagues
+Kaan Ayhan ,Sassuolo,Turkey,Defender,184,84,1994-11-10 00:00:00.000000,right,Turkey,Italy,2021-06-11 14:12:58.835670,27,Italy Leagues
+Merih Demiral ,Juventus,Turkey,Defender,192,86,1998-03-05 00:00:00.000000,left,Turkey,Italy,2021-06-11 14:12:58.835670,23,Italy Leagues
+Mert Müldür ,Sassuolo,Turkey,Defender,188,74,1999-04-03 00:00:00.000000,right,Turkey,Italy,2021-06-11 14:12:58.835670,22,Italy Leagues
+Ozan Kabak ,Liverpool,Turkey,Defender,186,86,2000-03-25 00:00:00.000000,right,Turkey,England,2021-06-11 14:12:58.835670,21,England Leagues
+Rıdvan Yılmaz ,Beşiktaş,Turkey,Defender,174,60,2001-05-21 00:00:00.000000,left,Turkey,Turkey,2021-06-11 14:12:58.835670,20,Turkey Leagues
+Umut Meraş ,Le Havre,Turkey,Defender,175,70,1995-12-20 00:00:00.000000,left,Turkey,France,2021-06-11 14:12:58.835670,25,France Leagues
+Yusuf Yazıcı ,LOSC Lille,Turkey,Midfielder,178,74,1997-01-29 00:00:00.000000,left,Turkey,France,2021-06-11 14:12:58.835670,24,France Leagues
+Dorukhan Toköz ,Beşiktaş,Turkey,Midfielder,180,72,1996-05-21 00:00:00.000000,right,Turkey,Turkey,2021-06-11 14:12:58.835670,25,Turkey Leagues
+İrfan Can Kahveci ,Fenerbahçe,Turkey,Midfielder,176,71,1995-07-15 00:00:00.000000,left,Turkey,Turkey,2021-06-11 14:12:58.835670,26,Turkey Leagues
+Okay Yokuşlu ,West Brom,Turkey,Midfielder,191,79,1994-03-09 00:00:00.000000,right,Turkey,England,2021-06-11 14:12:58.835670,27,England Leagues
+Orkun Kökçü ,Feyenoord,Turkey,Midfielder,175,67,2000-12-29 00:00:00.000000,right,Turkey,Netherlands,2021-06-11 14:12:58.835670,20,Netherlands Leagues
+Ozan Tufan ,Fenerbahçe,Turkey,Midfielder,179,80,1995-03-23 00:00:00.000000,right,Turkey,Turkey,2021-06-11 14:12:58.835670,26,Turkey Leagues
+Taylan Antalyalı ,Galatasaray,Turkey,Midfielder,180,71,1995-01-08 00:00:00.000000,left,Turkey,Turkey,2021-06-11 14:12:58.835670,26,Turkey Leagues
+Hakan Çalhanoğlu ,AC Milan,Turkey,Midfielder,178,76,1994-02-08 00:00:00.000000,right,Turkey,Italy,2021-06-11 14:12:58.835670,27,Italy Leagues
+Burak Yılmaz ,LOSC Lille,Turkey,Forward,188,80,1985-07-15 00:00:00.000000,right,Turkey,France,2021-06-11 14:12:58.835670,36,France Leagues
+Cengiz Ünder ,Leicester,Turkey,Forward,173,66,1997-07-14 00:00:00.000000,left,Turkey,England,2021-06-11 14:12:58.835670,24,England Leagues
+Enes Ünal ,Getafe,Turkey,Forward,185,73,1997-05-10 00:00:00.000000,right,Turkey,Spain,2021-06-11 14:12:58.835670,24,Spain Leagues
+Abdülkadir Ömür ,Trabzonspor,Turkey,Forward,168,62,1999-06-25 00:00:00.000000,left,Turkey,Turkey,2021-06-11 14:12:58.835670,22,Turkey Leagues
+Kerem Aktürkoğlu ,Galatasaray,Turkey,Forward,173,67,1998-10-21 00:00:00.000000,right,Turkey,Turkey,2021-06-11 14:12:58.835670,23,Turkey Leagues
+Halil İbrahim Dervişoğlu ,Brentford,Turkey,Forward,183,76,1999-12-08 00:00:00.000000,right,Netherlands,Turkey,2021-06-11 14:12:58.835670,22,Turkey Leagues
+Kenan Karaman ,Fortuna Düsseldorf,Turkey,Forward,189,83,1994-03-05 00:00:00.000000,right,Turkey,Germany,2021-06-11 14:12:58.835670,27,Germany Leagues
+Wayne Hennessey ,Crystal Palace,Wales,Goalkeeper,198,90,1987-01-24 00:00:00.000000,right,Wales,England,2021-06-11 14:12:58.835670,34,England Leagues
+Danny Ward ,Leicester City,Wales,Goalkeeper,191,88,1993-06-22 00:00:00.000000,right,Wales,England,2021-06-11 14:12:58.835670,28,England Leagues
+Adam Davies ,Stoke City,Wales,Goalkeeper,185,80,1992-07-17 00:00:00.000000,right,Germany,England,2021-06-11 14:12:58.835670,29,England Leagues
+Tom Lockyer ,Luton Town,Wales,Defender,180,72,1994-12-03 00:00:00.000000,right,Wales,England,2021-06-11 14:12:58.835670,27,England Leagues
+Ben Davies ,Tottenham,Wales,Defender,182,76,1993-04-24 00:00:00.000000,left,Wales,England,2021-06-11 14:12:58.835670,28,England Leagues
+Joe Rodon ,Tottenham,Wales,Defender,190,76,1997-10-22 00:00:00.000000,right,Wales,England,2021-06-11 14:12:58.835670,24,England Leagues
+Chris Mepham ,Bournemouth,Wales,Defender,191,75,1997-11-05 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,24,England Leagues
+Chris Gunter ,Charlton Athletic,Wales,Defender,180,71,1989-07-21 00:00:00.000000,right,Wales,England,2021-06-11 14:12:58.835670,32,England Leagues
+Rhys Norrington-Davies ,Sheffield United,Wales,Defender,181,75,1999-04-22 00:00:00.000000,left,Wales,England,2021-06-11 14:12:58.835670,22,England Leagues
+Neco Williams ,Liverpool,Wales,Defender,175,67,2001-04-13 00:00:00.000000,right,Wales,England,2021-06-11 14:12:58.835670,20,England Leagues
+Connor Roberts ,Swansea City,Wales,Defender,173,76,1995-09-23 00:00:00.000000,right,Wales,Wales,2021-06-11 14:12:58.835670,26,Wales Leagues
+Ben Cabango ,Swansea City,Wales,Defender,188,81,2000-05-30 00:00:00.000000,right,Wales,Wales,2021-06-11 14:12:58.835670,21,Wales Leagues
+Joe Allen ,Stoke City,Wales,Midfielder,168,62,1990-03-14 00:00:00.000000,right,Wales,England,2021-06-11 14:12:58.835670,31,England Leagues
+Joe Morrell ,Luton Town,Wales,Midfielder,185,77,1997-01-03 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,24,England Leagues
+Ethan Ampadu ,Chelsea,Wales,Midfielder,182,78,2000-09-14 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,21,England Leagues
+David Brooks ,Bournemouth,Wales,Midfielder,173,67,1997-07-08 00:00:00.000000,left,England,England,2021-06-11 14:12:58.835670,24,England Leagues
+Matthew Smith ,Manchester City,Wales,Midfielder,175,68,1999-11-22 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,22,England Leagues
+Jonny Williams ,Cardiff City,Wales,Midfielder,168,60,1993-10-09 00:00:00.000000,left,England,Wales,2021-06-11 14:12:58.835670,28,Wales Leagues
+Aaron Ramsey ,Juventus,Wales,Midfielder,178,76,1990-12-26 00:00:00.000000,right,Wales,Italy,2021-06-11 14:12:58.835670,30,Italy Leagues
+Dylan Levitt ,Manchester United,Wales,Midfielder,180,76,1997-11-10 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,24,England Leagues
+Rubin Colwill ,Cardiff City,Wales,Midfielder,0,0,2002-04-27 00:00:00.000000,,Wales,Wales,2021-06-11 14:12:58.835670,19,Wales Leagues
+Kieffer Moore ,Cardiff City,Wales,Forward,195,83,1992-08-08 00:00:00.000000,right,England,Wales,2021-06-11 14:12:58.835670,29,Wales Leagues
+Harry Wilson ,Liverpool,Wales,Forward,173,70,1997-03-22 00:00:00.000000,left,Wales,England,2021-06-11 14:12:58.835670,24,England Leagues
+Gareth Bale ,Real Madrid,Wales,Forward,185,82,1989-07-16 00:00:00.000000,left,Wales,England,2021-06-11 14:12:58.835670,32,England Leagues
+Tyler Roberts ,Leeds United,Wales,Forward,180,75,1999-01-12 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,22,England Leagues
+Dan James ,Manchester United,Wales,Forward,180,76,1997-11-10 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,24,England Leagues
+Yann Sommer ,Mönchengladbach,Switzerland,Goalkeeper,183,79,1988-12-17 00:00:00.000000,right,Switzerland,Germany,2021-06-11 14:12:58.835670,33,Germany Leagues
+Yvon Mvogo ,PSV,Switzerland,Goalkeeper,190,90,1994-06-06 00:00:00.000000,right,Cameroon,Netherlands,2021-06-11 14:12:58.835670,27,Netherlands Leagues
+Jonas Omlin ,Montpellier,Switzerland,Goalkeeper,189,80,1994-01-10 00:00:00.000000,right,Switzerland,France,2021-06-11 14:12:58.835670,27,France Leagues
+Manuel Akanji ,Dortmund,Switzerland,Defender,187,91,1995-07-19 00:00:00.000000,right,Switzerland,Germany,2021-06-11 14:12:58.835670,26,Germany Leagues
+Loris Benito ,Bordeaux,Switzerland,Defender,186,85,1992-01-07 00:00:00.000000,left,Switzerland,France,2021-06-11 14:12:58.835670,29,France Leagues
+Eray Cömert ,Basel,Switzerland,Defender,183,80,1998-02-04 00:00:00.000000,right,Switzerland,Switzerland,2021-06-11 14:12:58.835670,23,Switzerland Leagues
+Nico Elvedi ,Mönchengladbach,Switzerland,Defender,189,81,1996-09-30 00:00:00.000000,right,Switzerland,Germany,2021-06-11 14:12:58.835670,25,Germany Leagues
+Jordan Lotomba ,Nice,Switzerland,Defender,177,71,1998-09-29 00:00:00.000000,right,Switzerland,France,2021-06-11 14:12:58.835670,23,France Leagues
+Kevin Mbabu ,Wolfsburg,Switzerland,Defender,184,83,1995-04-19 00:00:00.000000,right,Switzerland,Germany,2021-06-11 14:12:58.835670,26,Germany Leagues
+Becir Omeragic ,Zürich,Switzerland,Defender,187,74,2002-01-20 00:00:00.000000,right,Switzerland,Switzerland,2021-06-11 14:12:58.835670,19,Switzerland Leagues
+Ricardo Rodríguez ,Torino,Switzerland,Defender,182,77,1992-08-25 00:00:00.000000,left,Switzerland,Italy,2021-06-11 14:12:58.835670,29,Italy Leagues
+Fabian Schär ,Newcastle United,Switzerland,Defender,188,84,1991-12-20 00:00:00.000000,right,Switzerland,England,2021-06-11 14:12:58.835670,29,England Leagues
+Silvan Widmer ,Basel,Switzerland,Defender,183,79,1993-03-05 00:00:00.000000,right,Switzerland,Switzerland,2021-06-11 14:12:58.835670,28,Switzerland Leagues
+Christian Fassnacht ,Young Boys,Switzerland,Midfielder,185,77,1993-11-11 00:00:00.000000,right,Switzerland,Switzerland,2021-06-11 14:12:58.835670,28,Switzerland Leagues
+Edimilson Fernandes ,Mainz,Switzerland,Midfielder,187,77,1996-04-15 00:00:00.000000,right,Switzerland,Germany,2021-06-11 14:12:58.835670,25,Germany Leagues
+Remo Freuler ,Atalanta,Switzerland,Midfielder,180,80,1992-04-15 00:00:00.000000,right,Switzerland,Italy,2021-06-11 14:12:58.835670,29,Italy Leagues
+Admir Mehmedi ,Wolfsburg,Switzerland,Midfielder,183,78,1991-03-16 00:00:00.000000,right,Macedonia FYR,Germany,2021-06-11 14:12:58.835670,30,Germany Leagues
+Xherdan Shaqiri ,Liverpool,Switzerland,Midfielder,169,72,1991-10-10 00:00:00.000000,left,Kosovo,England,2021-06-11 14:12:58.835670,30,England Leagues
+Djibril Sow ,Frankfurt,Switzerland,Midfielder,184,77,1997-02-06 00:00:00.000000,right,Switzerland,Germany,2021-06-11 14:12:58.835670,24,Germany Leagues
+Ruben Vargas ,Augsburg,Switzerland,Midfielder,177,68,1998-08-05 00:00:00.000000,right,Switzerland,Germany,2021-06-11 14:12:58.835670,23,Germany Leagues
+Granit Xhaka ,Arsenal,Switzerland,Midfielder,186,80,1992-09-27 00:00:00.000000,left,Switzerland,England,2021-06-11 14:12:58.835670,29,England Leagues
+Denis Zakaria ,Mönchengladbach,Switzerland,Midfielder,191,81,1996-11-20 00:00:00.000000,right,Switzerland,Germany,2021-06-11 14:12:58.835670,25,Germany Leagues
+Steven Zuber ,Frankfurt,Switzerland,Midfielder,182,79,1991-08-17 00:00:00.000000,right,Switzerland,Germany,2021-06-11 14:12:58.835670,30,Germany Leagues
+Breel Embolo ,Mönchengladbach,Switzerland,Forward,187,88,1997-02-14 00:00:00.000000,right,Cameroon,Germany,2021-06-11 14:12:58.835670,24,Germany Leagues
+Mario Gavranović ,Dinamo Zagreb,Switzerland,Forward,175,76,1989-11-24 00:00:00.000000,right,Switzerland,Croatia,2021-06-11 14:12:58.835670,32,Croatia Leagues
+Haris Seferović ,Benfica,Switzerland,Forward,189,85,1992-02-22 00:00:00.000000,left,Switzerland,Portugal,2021-06-11 14:12:58.835670,29,Portugal Leagues
+Jonas Lössl ,Midtjylland,Denmark,Goalkeeper,195,89,1989-02-01 00:00:00.000000,right,Denmark,Denmark,2021-06-11 14:12:58.835670,32,Denmark Leagues
+Frederik Rønnow ,Schalke,Denmark,Goalkeeper,190,80,1992-08-04 00:00:00.000000,right,Denmark,Germany,2021-06-11 14:12:58.835670,29,Germany Leagues
+Kasper Schmeichel ,Leicester,Denmark,Goalkeeper,189,89,1986-11-05 00:00:00.000000,right,Denmark,England,2021-06-11 14:12:58.835670,35,England Leagues
+Joachim Andersen ,Fulham,Denmark,Defender,192,87,1996-05-31 00:00:00.000000,right,Denmark,England,2021-06-11 14:12:58.835670,25,England Leagues
+Nicolai Boilesen ,Copenhagen,Denmark,Defender,186,75,1992-02-16 00:00:00.000000,left,Denmark,Denmark,2021-06-11 14:12:58.835670,29,Denmark Leagues
+Andreas Christensen ,Chelsea,Denmark,Defender,187,82,1996-04-10 00:00:00.000000,right,Denmark,England,2021-06-11 14:12:58.835670,25,England Leagues
+Mathias Jørgensen ,Copenhagen,Denmark,Defender,0,0,2000-03-28 00:00:00.000000,,Denmark,,2021-06-11 14:12:58.835670,21,
+Simon Kjær ,AC Milan,Denmark,Defender,190,86,1989-03-26 00:00:00.000000,right,Denmark,Italy,2021-06-11 14:12:58.835670,32,Italy Leagues
+Joakim Mæhle ,Atalanta,Denmark,Defender,184,79,1997-05-20 00:00:00.000000,right,Denmark,Italy,2021-06-11 14:12:58.835670,24,Italy Leagues
+Jens Stryger Larsen ,Udinese,Denmark,Defender,180,81,1991-02-21 00:00:00.000000,right,Denmark,Italy,2021-06-11 14:12:58.835670,30,Italy Leagues
+Jannik Vestergaard ,Southampton,Denmark,Defender,199,98,1992-08-03 00:00:00.000000,right,Denmark,England,2021-06-11 14:12:58.835670,29,England Leagues
+Anders Christiansen ,Malmö,Denmark,Midfielder,175,68,1990-06-08 00:00:00.000000,right,Denmark,Sweden,2021-06-11 14:12:58.835670,31,Sweden Leagues
+Thomas Delaney ,Dortmund,Denmark,Midfielder,182,79,1991-09-03 00:00:00.000000,left,Denmark,Germany,2021-06-11 14:12:58.835670,30,Germany Leagues
+Christian Eriksen ,Inter Milan,Denmark,Midfielder,182,76,1992-02-14 00:00:00.000000,right,Denmark,Italy,2021-06-11 14:12:58.835670,29,Italy Leagues
+Pierre-Emile Højbjerg ,Tottenham,Denmark,Midfielder,185,85,1995-08-05 00:00:00.000000,right,Denmark,England,2021-06-11 14:12:58.835670,26,England Leagues
+Mathias Jensen ,Brentford,Denmark,Midfielder,180,68,1996-01-01 00:00:00.000000,right,Denmark,England,2021-06-11 14:12:58.835670,25,England Leagues
+Christian Nørgaard ,Brentford,Denmark,Midfielder,187,77,1994-03-10 00:00:00.000000,right,Denmark,England,2021-06-11 14:12:58.835670,27,England Leagues
+Robert Skov ,Hoffenheim,Denmark,Midfielder,185,81,1996-05-20 00:00:00.000000,left,Denmark,Germany,2021-06-11 14:12:58.835670,25,Germany Leagues
+Daniel Wass ,Valencia,Denmark,Midfielder,181,74,1989-05-31 00:00:00.000000,right,Denmark,Spain,2021-06-11 14:12:58.835670,32,Spain Leagues
+Martin Braithwaite ,Barcelona,Denmark,Forward,177,73,1991-06-05 00:00:00.000000,right,Denmark,Spain,2021-06-11 14:12:58.835670,30,Spain Leagues
+Andreas Cornelius ,Parma,Denmark,Forward,193,91,1993-03-16 00:00:00.000000,left,Denmark,Italy,2021-06-11 14:12:58.835670,28,Italy Leagues
+Mikkel Damsgaard ,Sampdoria,Denmark,Forward,180,71,2000-07-03 00:00:00.000000,right,Denmark,Italy,2021-06-11 14:12:58.835670,21,Italy Leagues
+Kasper Dolberg ,Nice,Denmark,Forward,187,84,1997-10-06 00:00:00.000000,right,Denmark,France,2021-06-11 14:12:58.835670,24,France Leagues
+Andreas Skov Olsen ,Bologna,Denmark,Forward,188,75,1999-12-29 00:00:00.000000,left,Denmark,Italy,2021-06-11 14:12:58.835670,21,Italy Leagues
+Yussuf Poulsen ,Leipzig,Denmark,Forward,192,84,1994-06-15 00:00:00.000000,right,Denmark,Germany,2021-06-11 14:12:58.835670,27,Germany Leagues
+Jonas Wind ,Copenhagen,Denmark,Forward,190,82,1999-02-07 00:00:00.000000,right,Denmark,Denmark,2021-06-11 14:12:58.835670,22,Denmark Leagues
+Yuri Dyupin ,Rubin,Russia,Goalkeeper,185,76,1988-03-17 00:00:00.000000,left,Russia,Russia,2021-06-11 14:12:58.835670,33,Russia Leagues
+Matvei Safonov ,Krasnodar,Russia,Goalkeeper,192,82,1999-02-25 00:00:00.000000,right,Russia,Russia,2021-06-11 14:12:58.835670,22,Russia Leagues
+Anton Shunin ,Dinamo Moskva,Russia,Goalkeeper,191,88,1987-01-27 00:00:00.000000,left,Russia,Russia,2021-06-11 14:12:58.835670,34,Russia Leagues
+Igor Diveev ,CSKA Moskva,Russia,Defender,193,85,1999-09-27 00:00:00.000000,right,Russia,Russia,2021-06-11 14:12:58.835670,22,Russia Leagues
+Georgi Dzhikiya ,Spartak Moskva,Russia,Defender,188,86,1993-11-21 00:00:00.000000,left,Russia,Russia,2021-06-11 14:12:58.835670,28,Russia Leagues
+Mario Fernandes ,CSKA Moskva,Russia,Defender,187,80,1990-09-19 00:00:00.000000,right,Russia,Russia,2021-06-11 14:12:58.835670,31,Russia Leagues
+Vyacheslav Karavaev ,Zenit,Russia,Defender,175,70,1995-05-20 00:00:00.000000,right,Russia,Russia,2021-06-11 14:12:58.835670,26,Russia Leagues
+Fedor Kudryashov ,Antalyaspor,Russia,Defender,183,81,1987-04-05 00:00:00.000000,left,Russia,Turkey,2021-06-11 14:12:58.835670,34,Turkey Leagues
+Andrei Semenov ,Akhmat,Russia,Defender,190,86,1989-03-24 00:00:00.000000,right,Russia,Russia,2021-06-11 14:12:58.835670,32,Russia Leagues
+Dmitri Barinov ,Lokomotiv Moskva,Russia,Midfielder,179,72,1996-09-11 00:00:00.000000,right,Russia,Russia,2021-06-11 14:12:58.835670,25,Russia Leagues
+Denis Cheryshev ,Valencia,Russia,Midfielder,179,74,1990-12-26 00:00:00.000000,left,Russia,Spain,2021-06-11 14:12:58.835670,30,Spain Leagues
+Daniil Fomin ,Dinamo Moskva,Russia,Midfielder,187,78,1997-03-02 00:00:00.000000,right,Russia,Russia,2021-06-11 14:12:58.835670,24,Russia Leagues
+Aleksandr Golovin ,Monaco,Russia,Midfielder,180,69,1996-05-30 00:00:00.000000,right,Russia,Monaco,2021-06-11 14:12:58.835670,25,Monaco Leagues
+Daler Kuzyaev ,Zenit,Russia,Midfielder,182,74,1993-01-15 00:00:00.000000,right,Russia,Russia,2021-06-11 14:12:58.835670,28,Russia Leagues
+Andrei Mostovoy ,Zenit,Russia,Midfielder,180,77,1997-11-05 00:00:00.000000,right,Russia,Russia,2021-06-11 14:12:58.835670,24,Russia Leagues
+Maksim Mukhin ,CSKA Moskva,Russia,Midfielder,175,74,1998-07-05 00:00:00.000000,left,Russia,Russia,2021-06-11 14:12:58.835670,23,Russia Leagues
+Magomed Ozdoev ,Zenit,Russia,Midfielder,184,78,1992-11-05 00:00:00.000000,right,Russia,Russia,2021-06-11 14:12:58.835670,29,Russia Leagues
+Rifat Zhemaletdinov ,Lokomotiv Moskva,Russia,Midfielder,172,64,2001-11-04 00:00:00.000000,right,Russia,Russia,2021-06-11 14:12:58.835670,20,Russia Leagues
+Yuri Zhirkov ,Zenit,Russia,Midfielder,180,75,1983-08-20 00:00:00.000000,left,Russia,Russia,2021-06-11 14:12:58.835670,38,Russia Leagues
+Roman Zobnin ,Spartak Moskva,Russia,Midfielder,182,78,1994-02-11 00:00:00.000000,right,Russia,Russia,2021-06-11 14:12:58.835670,27,Russia Leagues
+Artem Dzyuba ,Zenit,Russia,Forward,197,97,1988-08-22 00:00:00.000000,right,Russia,Russia,2021-06-11 14:12:58.835670,33,Russia Leagues
+Aleksei Ionov ,Krasnodar,Russia,Forward,177,69,1989-02-18 00:00:00.000000,right,Russia,Russia,2021-06-11 14:12:58.835670,32,Russia Leagues
+Denis Makarov ,Rubin,Russia,Forward,181,75,1998-02-18 00:00:00.000000,left,Russia,Russia,2021-06-11 14:12:58.835670,23,Russia Leagues
+Aleksei Miranchuk ,Atalanta,Russia,Forward,182,67,1995-10-17 00:00:00.000000,left,Russia,Italy,2021-06-11 14:12:58.835670,26,Italy Leagues
+Aleksandr Sobolev ,Spartak Moskva,Russia,Forward,195,85,1997-03-07 00:00:00.000000,right,Russia,Russia,2021-06-11 14:12:58.835670,24,Russia Leagues
+Anton Zabolotny ,CSKA Moskva,Russia,Forward,180,77,1998-04-10 00:00:00.000000,right,Russia,Russia,2021-06-11 14:12:58.835670,23,Russia Leagues
+Thibaut Courtois ,Real Madrid,Belgium,Goalkeeper,200,96,1992-05-11 00:00:00.000000,left,Belgium,Spain,2021-06-11 14:12:58.835670,29,Spain Leagues
+Simon Mignolet ,Club Brugge,Belgium,Goalkeeper,193,87,1988-03-06 00:00:00.000000,right,Belgium,Belgium,2021-06-11 14:12:58.835670,33,Belgium Leagues
+Matz Sels ,Strasbourg,Belgium,Goalkeeper,188,75,1992-02-26 00:00:00.000000,right,Belgium,France,2021-06-11 14:12:58.835670,29,France Leagues
+Toby Alderweireld ,Tottenham,Belgium,Defender,187,91,1989-03-02 00:00:00.000000,right,Belgium,England,2021-06-11 14:12:58.835670,32,England Leagues
+Dedryck Boyata ,Hertha Berlin,Belgium,Defender,188,84,1990-11-28 00:00:00.000000,right,Belgium,Germany,2021-06-11 14:12:58.835670,31,Germany Leagues
+Timothy Castagne ,Leicester,Belgium,Defender,185,80,1995-12-05 00:00:00.000000,right,Belgium,England,2021-06-11 14:12:58.835670,26,England Leagues
+Jason Denayer ,Lyon,Belgium,Defender,184,80,1995-06-28 00:00:00.000000,right,Belgium,France,2021-06-11 14:12:58.835670,26,France Leagues
+Thomas Meunier ,Dortmund,Belgium,Defender,191,90,1991-09-12 00:00:00.000000,right,Belgium,Germany,2021-06-11 14:12:58.835670,30,Germany Leagues
+Thomas Vermaelen ,Vissel Kobe,Belgium,Defender,183,80,1985-11-14 00:00:00.000000,left,Belgium,Japan,2021-06-11 14:12:58.835670,36,Japan Leagues
+Jan Vertonghen ,Benfica,Belgium,Defender,189,88,1987-04-24 00:00:00.000000,left,Belgium,Portugal,2021-06-11 14:12:58.835670,34,Portugal Leagues
+Nacer Chadli ,İstanbul Başakşehir,Belgium,Midfielder,187,80,1989-08-02 00:00:00.000000,right,Belgium,Turkey,2021-06-11 14:12:58.835670,32,Turkey Leagues
+Yannick Carrasco ,Atlético Madrid,Belgium,Midfielder,185,73,1993-09-04 00:00:00.000000,right,Belgium,Spain,2021-06-11 14:12:58.835670,28,Spain Leagues
+Kevin De Bruyne ,Manchester City,Belgium,Midfielder,181,68,1991-06-28 00:00:00.000000,right,Belgium,England,2021-06-11 14:12:58.835670,30,England Leagues
+Leander Dendoncker ,Wolves,Belgium,Midfielder,188,76,1995-04-15 00:00:00.000000,right,Belgium,England,2021-06-11 14:12:58.835670,26,England Leagues
+Eden Hazard ,Real Madrid,Belgium,Midfielder,175,74,1991-01-07 00:00:00.000000,right,Belgium,Spain,2021-06-11 14:12:58.835670,30,Spain Leagues
+Thorgan Hazard ,Dortmund,Belgium,Midfielder,175,71,1993-03-29 00:00:00.000000,right,Belgium,Germany,2021-06-11 14:12:58.835670,28,Germany Leagues
+Dennis Praet ,Leicester,Belgium,Midfielder,181,78,1994-05-14 00:00:00.000000,right,Belgium,England,2021-06-11 14:12:58.835670,27,England Leagues
+Youri Tielemans ,Leicester,Belgium,Midfielder,176,72,1997-05-07 00:00:00.000000,right,Belgium,England,2021-06-11 14:12:58.835670,24,England Leagues
+Hans Vanaken ,Club Brugge,Belgium,Midfielder,195,77,1992-08-24 00:00:00.000000,right,Belgium,Belgium,2021-06-11 14:12:58.835670,29,Belgium Leagues
+Axel Witsel ,Dortmund,Belgium,Midfielder,186,81,1989-01-12 00:00:00.000000,right,Belgium,Germany,2021-06-11 14:12:58.835670,32,Germany Leagues
+Michy Batshuayi ,Crystal Palace,Belgium,Forward,190,83,1990-12-03 00:00:00.000000,right,Congo DR,England,2021-06-11 14:12:58.835670,31,England Leagues
+Christian Benteke ,Crystal Palace,Belgium,Forward,190,83,1990-12-03 00:00:00.000000,right,Congo DR,England,2021-06-11 14:12:58.835670,31,England Leagues
+Jeremy Doku ,Rennes,Belgium,Forward,171,67,2002-05-27 00:00:00.000000,right,Belgium,France,2021-06-11 14:12:58.835670,19,France Leagues
+Romelu Lukaku ,Inter Milan,Belgium,Forward,191,94,1993-05-13 00:00:00.000000,left,Belgium,Italy,2021-06-11 14:12:58.835670,28,Italy Leagues
+Dries Mertens ,Napoli,Belgium,Forward,169,61,1987-05-06 00:00:00.000000,right,Belgium,Italy,2021-06-11 14:12:58.835670,34,Italy Leagues
+Leandro Trossard ,Brighton,Belgium,Forward,172,63,1994-12-04 00:00:00.000000,right,Belgium,England,2021-06-11 14:12:58.835670,27,England Leagues
+Lukas Hradecky ,Leverkusen,Finland,Goalkeeper,192,82,1989-11-24 00:00:00.000000,right,Slovakia,Germany,2021-06-11 14:12:58.835670,32,Germany Leagues
+Anssi Jaakkola ,Bristol Rovers,Finland,Goalkeeper,193,88,1987-03-13 00:00:00.000000,right,Finland,England,2021-06-11 14:12:58.835670,34,England Leagues
+Jesse Joronen ,Brescia,Finland,Goalkeeper,197,89,1993-03-21 00:00:00.000000,left,Finland,Italy,2021-06-11 14:12:58.835670,28,Italy Leagues
+Paulus Arajuuri ,Pafos,Finland,Defender,193,92,1988-06-15 00:00:00.000000,right,Finland,Cyprus,2021-06-11 14:12:58.835670,33,Cyprus Leagues
+Robert Ivanov ,Warta Poznań,Finland,Defender,197,83,1993-07-21 00:00:00.000000,right,Finland,Poland,2021-06-11 14:12:58.835670,28,Poland Leagues
+Thomas Lam ,Zwolle,Finland,Defender,188,76,1993-12-18 00:00:00.000000,right,Netherlands,Netherlands,2021-06-11 14:12:58.835670,27,Netherlands Leagues
+Daniel O’Shaughnessy ,HJK Helsinki,Finland,Defender,190,85,1994-09-14 00:00:00.000000,left,Finland,Finland,2021-06-11 14:12:58.835670,27,Finland Leagues
+Jukka Raitala ,Minnesota United,Finland,Defender,181,76,1988-09-15 00:00:00.000000,left,Finland,United States,2021-06-11 14:12:58.835670,33,United States Leagues
+Joona Toivio ,Häcken,Finland,Defender,186,87,1988-03-10 00:00:00.000000,right,Finland,Sweden,2021-06-11 14:12:58.835670,33,Sweden Leagues
+Jere Uronen ,Genk,Finland,Defender,177,69,1994-07-13 00:00:00.000000,left,Finland,Belgium,2021-06-11 14:12:58.835670,27,Belgium Leagues
+Leo Väisänen ,Elfsborg,Finland,Defender,186,80,1997-07-23 00:00:00.000000,right,Finland,Sweden,2021-06-11 14:12:58.835670,24,Sweden Leagues
+Sauli Väisänen ,Chievo,Finland,Defender,188,77,1994-06-05 00:00:00.000000,right,Finland,Italy,2021-06-11 14:12:58.835670,27,Italy Leagues
+Nikolai Alho ,MTK Budapest,Finland,Midfielder,172,76,1993-03-12 00:00:00.000000,left,Finland,Hungary,2021-06-11 14:12:58.835670,28,Hungary Leagues
+Fredrik Jensen ,Augsburg,Finland,Midfielder,183,78,1997-09-09 00:00:00.000000,right,Finland,Germany,2021-06-11 14:12:58.835670,24,Germany Leagues
+Glen Kamara ,Rangers,Finland,Midfielder,181,78,1995-10-28 00:00:00.000000,right,Sierra Leone,Scotland,2021-06-11 14:12:58.835670,26,Scotland Leagues
+Joni Kauko ,Esbjerg,Finland,Midfielder,188,85,1990-07-12 00:00:00.000000,right,Finland,Denmark,2021-06-11 14:12:58.835670,31,Denmark Leagues
+Robin Lod ,Minnesota United,Finland,Midfielder,181,82,1993-04-17 00:00:00.000000,left,Finland,United States,2021-06-11 14:12:58.835670,28,United States Leagues
+Rasmus Schüller ,Djurgården,Finland,Midfielder,177,67,1991-06-18 00:00:00.000000,left,Finland,Sweden,2021-06-11 14:12:58.835670,30,Sweden Leagues
+Pyry Soiri ,Esbjerg,Finland,Midfielder,183,63,1994-09-22 00:00:00.000000,right,Namibia,Denmark,2021-06-11 14:12:58.835670,27,Denmark Leagues
+Tim Sparv ,Larissa,Finland,Midfielder,194,78,1987-02-20 00:00:00.000000,left,Finland,Greece,2021-06-11 14:12:58.835670,34,Greece Leagues
+Robert Taylor ,Brann,Finland,Midfielder,182,78,1994-10-21 00:00:00.000000,right,Finland,Norway,2021-06-11 14:12:58.835670,27,Norway Leagues
+Onni Valakari ,Pafos,Finland,Midfielder,187,82,1999-08-18 00:00:00.000000,left,Finland,Cyprus,2021-06-11 14:12:58.835670,22,Cyprus Leagues
+Marcus Forss ,Brentford,Finland,Forward,182,73,1999-06-18 00:00:00.000000,right,Finland,England,2021-06-11 14:12:58.835670,22,England Leagues
+Lassi Lappalainen ,Montréal,Finland,Forward,184,80,1998-08-24 00:00:00.000000,right,Finland,Canada,2021-06-11 14:12:58.835670,23,Canada Leagues
+Joel Pohjanpalo ,Union Berlin,Finland,Forward,184,79,1994-09-13 00:00:00.000000,right,Finland,Germany,2021-06-11 14:12:58.835670,27,Germany Leagues
+Teemu Pukki ,Norwich,Finland,Forward,180,73,1990-03-29 00:00:00.000000,right,Finland,England,2021-06-11 14:12:58.835670,31,England Leagues
+Marco Bizot ,AZ,Netherlands,Goalkeeper,193,85,1991-03-10 00:00:00.000000,right,Netherlands,Netherlands,2021-06-11 14:12:58.835670,30,Netherlands Leagues
+Tim Krul ,Norwich,Netherlands,Goalkeeper,188,84,1988-04-03 00:00:00.000000,left,Netherlands,England,2021-06-11 14:12:58.835670,33,England Leagues
+Maarten Stekelenburg ,Ajax,Netherlands,Goalkeeper,197,92,1982-09-22 00:00:00.000000,right,Netherlands,Netherlands,2021-06-11 14:12:58.835670,39,Netherlands Leagues
+Nathan Aké ,Manchester City,Netherlands,Defender,180,75,1995-02-18 00:00:00.000000,left,Côte d'Ivoire,England,2021-06-11 14:12:58.835670,26,England Leagues
+Daley Blind ,Ajax,Netherlands,Defender,180,72,1990-03-09 00:00:00.000000,left,Netherlands,Netherlands,2021-06-11 14:12:58.835670,31,Netherlands Leagues
+Matthijs de Ligt ,Juventus,Netherlands,Defender,187,80,1999-08-12 00:00:00.000000,right,Netherlands,Italy,2021-06-11 14:12:58.835670,22,Italy Leagues
+Stefan de Vrij ,Inter Milan,Netherlands,Defender,189,78,1992-02-05 00:00:00.000000,right,Netherlands,Italy,2021-06-11 14:12:58.835670,29,Italy Leagues
+Denzel Dumfries ,PSV,Netherlands,Defender,189,80,1996-04-18 00:00:00.000000,right,Aruba,Netherlands,2021-06-11 14:12:58.835670,25,Netherlands Leagues
+Patrick van Aanholt ,Crystal Palace,Netherlands,Defender,176,74,1990-08-29 00:00:00.000000,left,Netherlands,England,2021-06-11 14:12:58.835670,31,England Leagues
+Joël Veltman ,Brighton,Netherlands,Defender,184,75,1992-01-15 00:00:00.000000,right,Netherlands,England,2021-06-11 14:12:58.835670,29,England Leagues
+Owen Wijndal ,AZ,Netherlands,Defender,176,69,1999-11-28 00:00:00.000000,left,Suriname,Netherlands,2021-06-11 14:12:58.835670,22,Netherlands Leagues
+Frenkie de Jong ,Barcelona,Netherlands,Midfielder,180,74,1997-05-12 00:00:00.000000,right,Netherlands,Spain,2021-06-11 14:12:58.835670,24,Spain Leagues
+Marten de Roon ,Atalanta,Netherlands,Midfielder,185,76,1991-03-29 00:00:00.000000,right,Netherlands,Italy,2021-06-11 14:12:58.835670,30,Italy Leagues
+Ryan Gravenberch ,Ajax,Netherlands,Midfielder,190,77,2002-05-16 00:00:00.000000,right,Suriname,Netherlands,2021-06-11 14:12:58.835670,19,Netherlands Leagues
+Davy Klaassen ,Ajax,Netherlands,Midfielder,185,70,1993-02-21 00:00:00.000000,right,Netherlands,Netherlands,2021-06-11 14:12:58.835670,28,Netherlands Leagues
+Teun Koopmeiners ,AZ,Netherlands,Midfielder,183,71,1998-02-28 00:00:00.000000,left,Netherlands,Netherlands,2021-06-11 14:12:58.835670,23,Netherlands Leagues
+Quincy Promes ,Spartak Moskva,Netherlands,Midfielder,174,70,1992-01-04 00:00:00.000000,right,Suriname,Russia,2021-06-11 14:12:58.835670,29,Russia Leagues
+Jurriën Timber ,Ajax,Netherlands,Midfielder,190,77,2002-05-16 00:00:00.000000,right,Suriname,Netherlands,2021-06-11 14:12:58.835670,19,Netherlands Leagues
+Donny van de Beek ,Manchester United,Netherlands,Midfielder,184,73,1997-04-18 00:00:00.000000,right,Netherlands,England,2021-06-11 14:12:58.835670,24,England Leagues
+Georginio Wijnaldum ,Liverpool,Netherlands,Midfielder,175,74,1990-11-11 00:00:00.000000,right,Suriname,England,2021-06-11 14:12:58.835670,31,England Leagues
+Steven Berghuis ,Feyenoord,Netherlands,Forward,182,75,1991-12-19 00:00:00.000000,left,Netherlands,Netherlands,2021-06-11 14:12:58.835670,29,Netherlands Leagues
+Luuk de Jong ,Sevilla,Netherlands,Forward,188,86,1990-08-27 00:00:00.000000,right,Netherlands,Spain,2021-06-11 14:12:58.835670,31,Spain Leagues
+Memphis Depay ,Lyon,Netherlands,Forward,176,78,1994-02-13 00:00:00.000000,right,Ghana,France,2021-06-11 14:12:58.835670,27,France Leagues
+Cody Gakpo ,PSV,Netherlands,Forward,189,76,1999-05-07 00:00:00.000000,right,Netherlands,Netherlands,2021-06-11 14:12:58.835670,22,Netherlands Leagues
+Donyell Malen ,PSV Eindhoven,Netherlands,Forward,179,78,1999-01-19 00:00:00.000000,right,Netherlands,Netherlands,2021-06-11 14:12:58.835670,22,Netherlands Leagues
+Wout Weghorst ,Wolfsburg,Netherlands,Forward,197,84,1992-08-07 00:00:00.000000,right,Netherlands,Germany,2021-06-11 14:12:58.835670,29,Germany Leagues
+Georgiy Bushchan ,Dynamo Kyiv,Ukraine,Goalkeeper,196,80,1994-05-31 00:00:00.000000,right,Ukraine,Ukraine,2021-06-11 14:12:58.835670,27,Ukraine Leagues
+Andriy Pyatov ,Shakhtar Donetsk,Ukraine,Goalkeeper,190,90,1984-06-28 00:00:00.000000,right,Ukraine,Ukraine,2021-06-11 14:12:58.835670,37,Ukraine Leagues
+Anatolii Trubin ,Shakhtar Donetsk,Ukraine,Goalkeeper,199,86,2001-08-01 00:00:00.000000,right,Ukraine,Ukraine,2021-06-11 14:12:58.835670,20,Ukraine Leagues
+Eduard Sobol ,Club Brugge,Ukraine,Defender,181,73,1995-04-20 00:00:00.000000,left,Ukraine,Belgium,2021-06-11 14:12:58.835670,26,Belgium Leagues
+Illia Zabarnyi ,Dynamo Kyiv,Ukraine,Defender,186,80,2002-09-01 00:00:00.000000,right,Ukraine,Ukraine,2021-06-11 14:12:58.835670,19,Ukraine Leagues
+Serhiy Kryvtsov ,Shakhtar Donetsk,Ukraine,Defender,186,83,1991-03-15 00:00:00.000000,right,Ukraine,Ukraine,2021-06-11 14:12:58.835670,30,Ukraine Leagues
+Denys Popov ,Dynamo Kyiv,Ukraine,Defender,0,0,2000-06-11 00:00:00.000000,left,Ukraine,Ukraine,2021-06-11 14:12:58.835670,21,Ukraine Leagues
+Oleksandr Tymchyk ,Dynamo Kyiv,Ukraine,Defender,180,67,1997-01-20 00:00:00.000000,right,Ukraine,Ukraine,2021-06-11 14:12:58.835670,24,Ukraine Leagues
+Vitaliy Mykolenko ,Dynamo Kyiv,Ukraine,Defender,180,71,1999-05-29 00:00:00.000000,left,Ukraine,Ukraine,2021-06-11 14:12:58.835670,22,Ukraine Leagues
+Oleksandr Karavaev ,Dynamo Kyiv,Ukraine,Defender,0,0,2000-06-11 00:00:00.000000,left,Ukraine,Ukraine,2021-06-11 14:12:58.835670,21,Ukraine Leagues
+Mykola Matviyenko ,Shakhtar Donetsk,Ukraine,Defender,182,74,1996-05-02 00:00:00.000000,left,Ukraine,Ukraine,2021-06-11 14:12:58.835670,25,Ukraine Leagues
+Serhiy Sydorchuk ,Dynamo Kyiv,Ukraine,Midfielder,188,79,1991-05-02 00:00:00.000000,right,Ukraine,Ukraine,2021-06-11 14:12:58.835670,30,Ukraine Leagues
+Ruslan Malinovskyi ,Atalanta,Ukraine,Midfielder,181,79,1993-05-04 00:00:00.000000,left,Ukraine,Italy,2021-06-11 14:12:58.835670,28,Italy Leagues
+Mykola Shaparenko ,Dynamo Kyiv,Ukraine,Midfielder,178,72,1998-10-04 00:00:00.000000,right,Ukraine,Ukraine,2021-06-11 14:12:58.835670,23,Ukraine Leagues
+Marlos ,Shakhtar Donetsk,Ukraine,Midfielder,174,69,1988-06-07 00:00:00.000000,left,Brazil,Ukraine,2021-06-11 14:12:58.835670,33,Ukraine Leagues
+Yevhen Makarenko ,Kortrijk,Ukraine,Midfielder,186,82,1991-05-21 00:00:00.000000,left,Ukraine,Belgium,2021-06-11 14:12:58.835670,30,Belgium Leagues
+Oleksandr Zinchenko ,Manchester City,Ukraine,Midfielder,175,64,1996-12-15 00:00:00.000000,left,Ukraine,England,2021-06-11 14:12:58.835670,25,England Leagues
+Viktor Tsygankov ,Dynamo Kyiv,Ukraine,Midfielder,178,72,1998-10-04 00:00:00.000000,right,Ukraine,Ukraine,2021-06-11 14:12:58.835670,23,Ukraine Leagues
+Taras Stepanenko ,Shakhtar Donetsk,Ukraine,Midfielder,174,69,1988-06-07 00:00:00.000000,left,Brazil,Ukraine,2021-06-11 14:12:58.835670,33,Ukraine Leagues
+Andriy Yarmolenko ,West Ham,Ukraine,Midfielder,189,81,1989-10-23 00:00:00.000000,left,Ukraine,England,2021-06-11 14:12:58.835670,32,England Leagues
+Oleksandr Zubkov ,Ferencváros,Ukraine,Midfielder,181,71,1996-08-03 00:00:00.000000,left,Ukraine,Hungary,2021-06-11 14:12:58.835670,25,Hungary Leagues
+Heorhii Sudakov ,Shakhtar Donetsk,Ukraine,Midfielder,173,63,2002-09-01 00:00:00.000000,right,Ukraine,Ukraine,2021-06-11 14:12:58.835670,19,Ukraine Leagues
+Roman Bezus ,Gent,Ukraine,Midfielder,185,78,1990-09-26 00:00:00.000000,right,Ukraine,Belgium,2021-06-11 14:12:58.835670,31,Belgium Leagues
+Roman Yaremchuk ,Gent,Ukraine,Forward,186,78,1995-11-27 00:00:00.000000,right,Ukraine,Belgium,2021-06-11 14:12:58.835670,26,Belgium Leagues
+Artem Besedin ,Dynamo Kyiv,Ukraine,Forward,185,76,1996-03-31 00:00:00.000000,right,Ukraine,Ukraine,2021-06-11 14:12:58.835670,25,Ukraine Leagues
+Artem Dovbyk ,Dnipro-1,Ukraine,Forward,185,76,1997-06-21 00:00:00.000000,left,Ukraine,Ukraine,2021-06-11 14:12:58.835670,24,Ukraine Leagues
+Daniel Bachmann ,Watford,Austria,Goalkeeper,191,81,1994-07-09 00:00:00.000000,right,Austria,England,2021-06-11 14:12:58.835670,27,England Leagues
+Pavao Pervan ,Wolfsburg,Austria,Goalkeeper,194,92,1987-11-13 00:00:00.000000,right,Croatia,Germany,2021-06-11 14:12:58.835670,34,Germany Leagues
+Alexander Schlager ,LASK,Austria,Goalkeeper,184,77,1996-02-01 00:00:00.000000,right,Austria,Austria,2021-06-11 14:12:58.835670,25,Austria Leagues
+David Alaba ,Bayern,Austria,Defender,180,78,1992-06-24 00:00:00.000000,left,Austria,Germany,2021-06-11 14:12:58.835670,29,Germany Leagues
+Aleksandar Dragović ,Leverkusen,Austria,Defender,186,85,1991-03-06 00:00:00.000000,right,Austria,Germany,2021-06-11 14:12:58.835670,30,Germany Leagues
+Marco Friedl ,Werder Bremen,Austria,Defender,187,82,1998-03-16 00:00:00.000000,left,Austria,Germany,2021-06-11 14:12:58.835670,23,Germany Leagues
+Martin Hinteregger ,Frankfurt,Austria,Defender,184,83,1992-09-07 00:00:00.000000,left,Austria,Germany,2021-06-11 14:12:58.835670,29,Germany Leagues
+Stefan Lainer ,Mönchengladbach,Austria,Defender,175,73,1992-08-27 00:00:00.000000,right,Austria,Germany,2021-06-11 14:12:58.835670,29,Germany Leagues
+Philipp Lienhart ,Freiburg,Austria,Defender,189,82,1996-07-11 00:00:00.000000,right,Austria,Germany,2021-06-11 14:12:58.835670,25,Germany Leagues
+Stefan Posch ,Hoffenheim,Austria,Defender,189,82,1997-05-14 00:00:00.000000,right,Austria,Germany,2021-06-11 14:12:58.835670,24,Germany Leagues
+Andreas Ulmer ,Salzburg,Austria,Defender,175,73,1985-10-30 00:00:00.000000,left,Austria,Austria,2021-06-11 14:12:58.835670,36,Austria Leagues
+Julian Baumgartlinger ,Leverkusen,Austria,Midfielder,181,85,1988-01-02 00:00:00.000000,right,Austria,Germany,2021-06-11 14:12:58.835670,33,Germany Leagues
+Christoph Baumgartner ,Hoffenheim,Austria,Midfielder,180,71,1999-08-01 00:00:00.000000,right,Austria,Germany,2021-06-11 14:12:58.835670,22,Germany Leagues
+Florian Grillitsch ,Hoffenheim,Austria,Midfielder,187,77,1995-08-07 00:00:00.000000,right,Austria,Germany,2021-06-11 14:12:58.835670,26,Germany Leagues
+Stefan Ilsanker ,Frankfurt,Austria,Midfielder,190,86,1989-05-18 00:00:00.000000,right,Austria,Germany,2021-06-11 14:12:58.835670,32,Germany Leagues
+Konrad Laimer ,Leipzig,Austria,Midfielder,180,72,1997-05-27 00:00:00.000000,right,Austria,Germany,2021-06-11 14:12:58.835670,24,Germany Leagues
+Valentino Lazaro ,Internazionale,Austria,Midfielder,180,76,1996-03-24 00:00:00.000000,right,Austria,Germany,2021-06-11 14:12:58.835670,25,Germany Leagues
+Karim Onisiwo ,Mainz,Austria,Midfielder,188,76,1992-03-17 00:00:00.000000,right,Austria,Germany,2021-06-11 14:12:58.835670,29,Germany Leagues
+Marcel Sabitzer ,Leipzig,Austria,Midfielder,178,76,1994-03-17 00:00:00.000000,right,Austria,Germany,2021-06-11 14:12:58.835670,27,Germany Leagues
+Louis Schaub ,Luzern,Austria,Midfielder,177,76,1994-12-29 00:00:00.000000,right,Austria,Switzerland,2021-06-11 14:12:58.835670,26,Switzerland Leagues
+Xaver Schlager ,Wolfsburg,Austria,Midfielder,174,73,1997-09-28 00:00:00.000000,right,Austria,Germany,2021-06-11 14:12:58.835670,24,Germany Leagues
+Alessandro Schöpf ,Schalke,Austria,Midfielder,178,74,1994-02-07 00:00:00.000000,right,Austria,Germany,2021-06-11 14:12:58.835670,27,Germany Leagues
+Christopher Trimmel ,Union Berlin,Austria,Midfielder,189,82,1987-02-24 00:00:00.000000,right,Austria,Germany,2021-06-11 14:12:58.835670,34,Germany Leagues
+Marko Arnautović ,Shanghai Port,Austria,Forward,192,83,1989-04-19 00:00:00.000000,right,Austria,China PR,2021-06-11 14:12:58.835670,32,China PR Leagues
+Michael Gregoritsch ,Augsburg,Austria,Forward,193,91,1994-04-18 00:00:00.000000,left,Austria,Germany,2021-06-11 14:12:58.835670,27,Germany Leagues
+Sasa Kalajdzic ,Stuttgart,Austria,Forward,200,76,1997-07-07 00:00:00.000000,right,Austria,Germany,2021-06-11 14:12:58.835670,24,Germany Leagues
+Stole Dimitrievski ,Rayo Vallecano,North Macedonia,Goalkeeper,188,81,1993-12-25 00:00:00.000000,right,Macedonia FYR,Spain,2021-06-11 14:12:58.835670,27,Spain Leagues
+Risto Jankov ,Rabotnicki,North Macedonia,Goalkeeper,190,92,1998-09-05 00:00:00.000000,right,Macedonia FYR,Macedonia FYR,2021-06-11 14:12:58.835670,23,Macedonia FYR Leagues
+Damjan Siskovski ,Doxa Katokopia,North Macedonia,Goalkeeper,193,90,1995-03-18 00:00:00.000000,right,Macedonia FYR,Cyprus,2021-06-11 14:12:58.835670,26,Cyprus Leagues
+Egzijan Alioski ,Leeds,North Macedonia,Defender,172,63,1992-02-12 00:00:00.000000,left,Macedonia FYR,England,2021-06-11 14:12:58.835670,29,England Leagues
+Egzon Bejtulai ,Shkëndija,North Macedonia,Defender,179,71,1994-01-07 00:00:00.000000,right,Macedonia FYR,Macedonia FYR,2021-06-11 14:12:58.835670,27,Macedonia FYR Leagues
+Visar Musliu ,Fehérvár,North Macedonia,Defender,186,75,1994-11-13 00:00:00.000000,right,Macedonia FYR,Hungary,2021-06-11 14:12:58.835670,27,Hungary Leagues
+Kire Ristevski ,Újpest,North Macedonia,Defender,188,80,1990-10-22 00:00:00.000000,left,Macedonia FYR,Hungary,2021-06-11 14:12:58.835670,31,Hungary Leagues
+Stefan Ristovski ,Dinamo Zagreb,North Macedonia,Defender,180,72,1992-02-12 00:00:00.000000,right,Macedonia FYR,Croatia,2021-06-11 14:12:58.835670,29,Croatia Leagues
+Darko Velkovski ,Rijeka,North Macedonia,Defender,187,83,1995-06-21 00:00:00.000000,right,Macedonia FYR,Croatia,2021-06-11 14:12:58.835670,26,Croatia Leagues
+Gjoko Zajkov ,Charleroi,North Macedonia,Defender,186,78,1995-02-10 00:00:00.000000,right,Macedonia FYR,Belgium,2021-06-11 14:12:58.835670,26,Belgium Leagues
+Arijan Ademi ,Dinamo Zagreb,North Macedonia,Midfielder,185,79,1991-05-29 00:00:00.000000,right,Macedonia FYR,Croatia,2021-06-11 14:12:58.835670,30,Croatia Leagues
+Enis Bardi ,Levante,North Macedonia,Midfielder,169,64,1995-07-02 00:00:00.000000,right,Macedonia FYR,Spain,2021-06-11 14:12:58.835670,26,Spain Leagues
+Darko Churlinov ,Stuttgart,North Macedonia,Midfielder,180,73,2000-07-11 00:00:00.000000,right,Macedonia FYR,Germany,2021-06-11 14:12:58.835670,21,Germany Leagues
+Eljif Elmas ,Napoli,North Macedonia,Midfielder,184,74,1999-09-24 00:00:00.000000,right,Macedonia FYR,Italy,2021-06-11 14:12:58.835670,22,Italy Leagues
+Feran Hasani ,Partizani,North Macedonia,Midfielder,188,75,1990-06-18 00:00:00.000000,right,Macedonia FYR,Albania,2021-06-11 14:12:58.835670,31,Albania Leagues
+Tihomir Kostadinov ,Ružomberok,North Macedonia,Midfielder,178,74,1996-03-04 00:00:00.000000,right,Macedonia FYR,Slovakia,2021-06-11 14:12:58.835670,25,Slovakia Leagues
+Boban Nikolov ,Lecce,North Macedonia,Midfielder,180,75,1994-07-28 00:00:00.000000,right,Macedonia FYR,Italy,2021-06-11 14:12:58.835670,27,Italy Leagues
+Milan Ristovski ,Spartak Trnava,North Macedonia,Midfielder,188,77,1998-04-08 00:00:00.000000,right,Macedonia FYR,Slovakia,2021-06-11 14:12:58.835670,23,Slovakia Leagues
+Stefan Spirovski ,AEK Larnaca,North Macedonia,Midfielder,185,74,1990-08-23 00:00:00.000000,right,Macedonia FYR,Cyprus,2021-06-11 14:12:58.835670,31,Cyprus Leagues
+Daniel Avramovski ,Kayserispor,North Macedonia,Forward,185,79,1995-02-20 00:00:00.000000,left,Macedonia FYR,Turkey,2021-06-11 14:12:58.835670,26,Turkey Leagues
+Goran Pandev ,Genoa,North Macedonia,Forward,184,75,1983-07-27 00:00:00.000000,left,Macedonia FYR,Italy,2021-06-11 14:12:58.835670,38,Italy Leagues
+Marjan Radeski ,Akademija Pandev,North Macedonia,Forward,180,72,1995-02-10 00:00:00.000000,right,Macedonia FYR,Macedonia FYR,2021-06-11 14:12:58.835670,26,Macedonia FYR Leagues
+Vlatko Stojanovski ,Chambly,North Macedonia,Forward,186,78,1997-04-23 00:00:00.000000,right,Macedonia FYR,France,2021-06-11 14:12:58.835670,24,France Leagues
+Aleksandar Trajkovski ,Mallorca,North Macedonia,Forward,179,78,1992-09-05 00:00:00.000000,right,Macedonia FYR,Spain,2021-06-11 14:12:58.835670,29,Spain Leagues
+Ivan Tričkovski ,AEK Larnaca,North Macedonia,Forward,182,79,1987-04-18 00:00:00.000000,right,Macedonia FYR,Cyprus,2021-06-11 14:12:58.835670,34,Cyprus Leagues
+Krste Velkovski ,Sarajevo,North Macedonia,Forward,180,72,1988-02-20 00:00:00.000000,right,Macedonia FYR,Bosnia-Herzegovina,2021-06-11 14:12:58.835670,33,Bosnia-Herzegovina Leagues
+Dean Henderson ,Manchester United,England,Goalkeeper,188,82,1997-03-12 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,24,England Leagues
+Sam Johnstone ,West Bromwich Albion,England,Goalkeeper,193,85,1993-03-25 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,28,England Leagues
+Jordan Pickford ,Everton,England,Goalkeeper,185,77,1994-03-07 00:00:00.000000,left,England,England,2021-06-11 14:12:58.835670,27,England Leagues
+Ben Chilwell ,Chelsea,England,Defender,178,77,1996-12-21 00:00:00.000000,left,England,England,2021-06-11 14:12:58.835670,24,England Leagues
+Ben White ,Brighton,England,Defender,182,72,1997-10-08 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,24,England Leagues
+Conor Coady ,Wolves,England,Defender,186,80,1993-02-25 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,28,England Leagues
+Reece James ,Chelsea,England,Defender,185,87,1999-12-08 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,22,England Leagues
+Harry Maguire ,Manchester United,England,Defender,194,100,1993-03-05 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,28,England Leagues
+Tyrone Mings ,Aston Villa,England,Defender,196,77,1993-03-13 00:00:00.000000,left,England,England,2021-06-11 14:12:58.835670,28,England Leagues
+Luke Shaw ,Manchester United,England,Defender,185,75,1995-07-12 00:00:00.000000,left,England,England,2021-06-11 14:12:58.835670,26,England Leagues
+John Stones ,Manchester City,England,Defender,188,75,1994-05-28 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,27,England Leagues
+Kieran Trippier ,Atlético,England,Defender,173,69,1990-09-19 00:00:00.000000,right,England,Spain,2021-06-11 14:12:58.835670,31,Spain Leagues
+Kyle Walker ,Manchester City,England,Defender,183,70,1990-05-28 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,31,England Leagues
+Jude Bellingham ,Dortmund,England,Midfielder,180,75,2003-06-29 00:00:00.000000,right,England,Germany,2021-06-11 14:12:58.835670,18,Germany Leagues
+Phil Foden ,Manchester City,England,Midfielder,175,68,2000-05-28 00:00:00.000000,left,England,England,2021-06-11 14:12:58.835670,21,England Leagues
+Jack Grealish ,Aston Villa,England,Midfielder,0,0,2003-01-21 00:00:00.000000,,England,England,2021-06-11 14:12:58.835670,18,England Leagues
+Jordan Henderson ,Liverpool,England,Midfielder,182,67,1990-06-17 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,31,England Leagues
+Mason Mount ,Chelsea,England,Midfielder,178,70,1999-01-10 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,22,England Leagues
+Kalvin Phillips ,Leeds United,England,Midfielder,178,72,1995-12-02 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,26,England Leagues
+Declan Rice ,West Ham,England,Midfielder,185,80,1999-01-14 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,22,England Leagues
+Bukayo Saka ,Arsenal,England,Midfielder,178,70,2001-09-05 00:00:00.000000,left,England,England,2021-06-11 14:12:58.835670,20,England Leagues
+Jadon Sancho ,Dortmund,England,Midfielder,180,76,2000-03-25 00:00:00.000000,right,England,Germany,2021-06-11 14:12:58.835670,21,Germany Leagues
+Dominic Calvert-Lewin ,Everton,England,Forward,187,74,1997-03-16 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,24,England Leagues
+Harry Kane ,Tottenham,England,Forward,188,86,1993-07-28 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,28,England Leagues
+Marcus Rashford ,Manchester United,England,Forward,187,72,1997-10-31 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,24,England Leagues
+Raheem Sterling ,Manchester City,England,Forward,170,69,1994-12-08 00:00:00.000000,right,Jamaica,England,2021-06-11 14:12:58.835670,27,England Leagues
+Craig Gordon ,Hearts,Scotland,Goalkeeper,193,83,1982-12-31 00:00:00.000000,right,Scotland,Scotland,2021-06-11 14:12:58.835670,38,Scotland Leagues
+David Marshall ,Derby,Scotland,Goalkeeper,190,83,1985-03-05 00:00:00.000000,right,Scotland,England,2021-06-11 14:12:58.835670,36,England Leagues
+Jon McLaughlin ,Rangers,Scotland,Goalkeeper,191,83,1987-09-09 00:00:00.000000,right,Scotland,Scotland,2021-06-11 14:12:58.835670,34,Scotland Leagues
+Liam Cooper ,Leeds,Scotland,Defender,180,73,1991-08-30 00:00:00.000000,left,Scotland,England,2021-06-11 14:12:58.835670,30,England Leagues
+Declan Gallagher ,Motherwell,Scotland,Defender,196,93,1991-02-13 00:00:00.000000,right,Scotland,Scotland,2021-06-11 14:12:58.835670,30,Scotland Leagues
+Grant Hanley ,Norwich,Scotland,Defender,187,76,1991-11-20 00:00:00.000000,right,Scotland,England,2021-06-11 14:12:58.835670,30,England Leagues
+Jack Hendry ,Celtic,Scotland,Defender,194,86,1995-05-07 00:00:00.000000,right,Scotland,Belgium,2021-06-11 14:12:58.835670,26,Belgium Leagues
+Scott McKenna ,Nottingham Forest,Scotland,Defender,189,80,1996-11-12 00:00:00.000000,left,Scotland,England,2021-06-11 14:12:58.835670,25,England Leagues
+Stephen O’Donnell ,Motherwell,Scotland,Defender,183,74,1992-05-11 00:00:00.000000,right,Ireland Republic,Scotland,2021-06-11 14:12:58.835670,29,Scotland Leagues
+Nathan Patterson ,Rangers,Scotland,Defender,183,79,2001-10-16 00:00:00.000000,right,Scotland,Scotland,2021-06-11 14:12:58.835670,20,Scotland Leagues
+Andy Robertson ,Liverpool,Scotland,Defender,178,63,1994-03-11 00:00:00.000000,left,Scotland,England,2021-06-11 14:12:58.835670,27,England Leagues
+Greg Taylor ,Celtic,Scotland,Defender,173,62,1997-11-04 00:00:00.000000,left,Scotland,Scotland,2021-06-11 14:12:58.835670,24,Scotland Leagues
+Kieran Tierney ,Arsenal,Scotland,Defender,178,70,1997-06-05 00:00:00.000000,left,Scotland,England,2021-06-11 14:12:58.835670,24,England Leagues
+Stuart Armstrong ,Southampton,Scotland,Midfielder,184,73,1992-03-30 00:00:00.000000,right,Scotland,England,2021-06-11 14:12:58.835670,29,England Leagues
+Ryan Christie ,Celtic,Scotland,Midfielder,178,79,1995-02-22 00:00:00.000000,right,Scotland,Scotland,2021-06-11 14:12:58.835670,26,Scotland Leagues
+John Fleck ,Sheffield United,Scotland,Midfielder,172,72,1991-08-24 00:00:00.000000,left,Scotland,England,2021-06-11 14:12:58.835670,30,England Leagues
+James Forrest ,Celtic,Scotland,Midfielder,175,67,1991-07-07 00:00:00.000000,right,Scotland,Scotland,2021-06-11 14:12:58.835670,30,Scotland Leagues
+Ryan Fraser ,Newcastle United,Scotland,Midfielder,163,62,1994-02-24 00:00:00.000000,right,Scotland,England,2021-06-11 14:12:58.835670,27,England Leagues
+Billy Gilmour ,Chelsea,Scotland,Midfielder,170,66,2001-06-11 00:00:00.000000,right,Scotland,England,2021-06-11 14:12:58.835670,20,England Leagues
+John McGinn ,Aston Villa,Scotland,Midfielder,178,68,1994-10-18 00:00:00.000000,left,Scotland,England,2021-06-11 14:12:58.835670,27,England Leagues
+Callum McGregor ,Celtic,Scotland,Midfielder,178,67,1993-06-14 00:00:00.000000,left,Scotland,Scotland,2021-06-11 14:12:58.835670,28,Scotland Leagues
+Scott McTominay ,Manchester United,Scotland,Midfielder,193,88,1996-12-08 00:00:00.000000,right,Scotland,England,2021-06-11 14:12:58.835670,25,England Leagues
+David Turnbull ,Celtic,Scotland,Midfielder,185,75,1999-07-10 00:00:00.000000,right,Scotland,Scotland,2021-06-11 14:12:58.835670,22,Scotland Leagues
+Ché Adams ,Southampton,Scotland,Forward,175,70,1996-07-13 00:00:00.000000,right,England,England,2021-06-11 14:12:58.835670,25,England Leagues
+Lyndon Dykes ,QPR,Scotland,Forward,188,84,1995-10-07 00:00:00.000000,right,Scotland,England,2021-06-11 14:12:58.835670,26,England Leagues
+Kevin Nisbet ,Hibernian,Scotland,Forward,180,77,1997-03-08 00:00:00.000000,right,Scotland,Scotland,2021-06-11 14:12:58.835670,24,Scotland Leagues
+Dominik Livaković ,Dinamo Zagreb,Croatia,Goalkeeper,187,79,1995-01-09 00:00:00.000000,right,Croatia,Croatia,2021-06-11 14:12:58.835670,26,Croatia Leagues
+Lovre Kalinić ,Hajduk Split,Croatia,Goalkeeper,201,96,1990-04-03 00:00:00.000000,right,Croatia,Croatia,2021-06-11 14:12:58.835670,31,Croatia Leagues
+Simon Sluga ,Luton,Croatia,Goalkeeper,185,81,1993-03-17 00:00:00.000000,right,Croatia,England,2021-06-11 14:12:58.835670,28,England Leagues
+Borna Barišić ,Rangers,Croatia,Defender,186,80,1992-11-10 00:00:00.000000,left,Croatia,Scotland,2021-06-11 14:12:58.835670,29,Scotland Leagues
+Domagoj Bradarić ,LOSC Lille,Croatia,Defender,178,69,1999-12-10 00:00:00.000000,left,Croatia,France,2021-06-11 14:12:58.835670,22,France Leagues
+Duje Ćaleta-Car ,Marseille,Croatia,Defender,192,89,1996-09-17 00:00:00.000000,right,Croatia,France,2021-06-11 14:12:58.835670,25,France Leagues
+Joško Gvardiol ,Leipzig,Croatia,Defender,185,82,2002-01-23 00:00:00.000000,left,Croatia,Croatia,2021-06-11 14:12:58.835670,19,Croatia Leagues
+Josip Juranović ,Legia Warszawa,Croatia,Defender,173,69,1995-08-16 00:00:00.000000,right,Croatia,Poland,2021-06-11 14:12:58.835670,26,Poland Leagues
+Dejan Lovren ,Zenit,Croatia,Defender,188,84,1989-07-05 00:00:00.000000,both,Croatia,Russia,2021-06-11 14:12:58.835670,32,Russia Leagues
+Mile Škorić ,Osijek,Croatia,Defender,187,80,1991-06-19 00:00:00.000000,right,Croatia,Croatia,2021-06-11 14:12:58.835670,30,Croatia Leagues
+Domagoj Vida ,Beşiktaş,Croatia,Defender,184,76,1989-04-29 00:00:00.000000,right,Croatia,Turkey,2021-06-11 14:12:58.835670,32,Turkey Leagues
+Šime Vrsaljko ,Atlético Madrid,Croatia,Defender,181,76,1992-01-10 00:00:00.000000,right,Croatia,Spain,2021-06-11 14:12:58.835670,29,Spain Leagues
+Mateo Kovačić ,Chelsea,Croatia,Midfielder,176,80,1994-05-06 00:00:00.000000,right,Croatia,England,2021-06-11 14:12:58.835670,27,England Leagues
+Luka Modrić ,Real Madrid,Croatia,Midfielder,172,66,1985-09-09 00:00:00.000000,right,Croatia,Spain,2021-06-11 14:12:58.835670,36,Spain Leagues
+Marcelo Brozović ,Inter Milan,Croatia,Midfielder,181,68,1992-11-16 00:00:00.000000,right,Croatia,Italy,2021-06-11 14:12:58.835670,29,Italy Leagues
+Milan Badelj ,Genoa,Croatia,Midfielder,186,76,1989-02-25 00:00:00.000000,right,Croatia,Italy,2021-06-11 14:12:58.835670,32,Italy Leagues
+Nikola Vlašić ,CSKA Moskva,Croatia,Midfielder,178,79,1997-10-04 00:00:00.000000,right,Croatia,Russia,2021-06-11 14:12:58.835670,24,Russia Leagues
+Mario Pašalić ,Atalanta,Croatia,Midfielder,188,82,1995-02-09 00:00:00.000000,right,Croatia,Italy,2021-06-11 14:12:58.835670,26,Italy Leagues
+Ivan Perišić ,Inter Milan,Croatia,Midfielder,186,80,1989-02-02 00:00:00.000000,both,Croatia,Italy,2021-06-11 14:12:58.835670,32,Italy Leagues
+Mislav Oršić ,Dinamo Zagreb,Croatia,Midfielder,179,75,1998-01-17 00:00:00.000000,left,Croatia,Croatia,2021-06-11 14:12:58.835670,23,Croatia Leagues
+Luka Ivanušec ,Dinamo Zagreb,Croatia,Midfielder,175,76,1998-11-26 00:00:00.000000,right,Croatia,Croatia,2021-06-11 14:12:58.835670,23,Croatia Leagues
+Josip Brekalo ,Wolfsburg,Croatia,Forward,175,70,1998-06-23 00:00:00.000000,right,Croatia,Germany,2021-06-11 14:12:58.835670,23,Germany Leagues
+Ante Budimir ,Osasuna,Croatia,Forward,190,75,1991-07-21 00:00:00.000000,left,Bosnia-Herzegovina,Spain,2021-06-11 14:12:58.835670,30,Spain Leagues
+Andrej Kramarić ,Hoffenheim,Croatia,Forward,177,73,1991-06-19 00:00:00.000000,right,Croatia,Germany,2021-06-11 14:12:58.835670,30,Germany Leagues
+Bruno Petković ,Dinamo Zagreb,Croatia,Forward,193,88,1994-09-16 00:00:00.000000,right,Croatia,Croatia,2021-06-11 14:12:58.835670,27,Croatia Leagues
+Ante Rebić ,AC Milan,Croatia,Forward,185,78,1993-09-21 00:00:00.000000,right,Croatia,Italy,2021-06-11 14:12:58.835670,28,Italy Leagues
+Aleš Mandous ,Olomouc,Czech Republic,Goalkeeper,188,85,1992-04-21 00:00:00.000000,left,Czech Republic,Czech Republic,2021-06-11 14:12:58.835670,29,Czech Republic Leagues
+Jiří Pavlenka ,Werder Bremen,Czech Republic,Goalkeeper,196,81,1992-04-14 00:00:00.000000,right,Czech Republic,Germany,2021-06-11 14:12:58.835670,29,Germany Leagues
+Tomáš Vaclík ,Sevilla,Czech Republic,Goalkeeper,188,85,1989-03-29 00:00:00.000000,right,Czech Republic,Spain,2021-06-11 14:12:58.835670,32,Spain Leagues
+Jan Bořil ,Slavia Praha,Czech Republic,Defender,175,75,1991-01-11 00:00:00.000000,right,Czech Republic,Czech Republic,2021-06-11 14:12:58.835670,30,Czech Republic Leagues
+Jakub Brabec ,Viktoria Plzeň,Czech Republic,Defender,187,79,1992-08-06 00:00:00.000000,right,Czech Republic,Czech Republic,2021-06-11 14:12:58.835670,29,Czech Republic Leagues
+Ondřej Čelůstka ,Sparta Praha,Czech Republic,Defender,186,80,1989-06-18 00:00:00.000000,right,Czech Republic,Czech Republic,2021-06-11 14:12:58.835670,32,Czech Republic Leagues
+Vladimír Coufal ,West Ham,Czech Republic,Defender,175,76,1992-08-22 00:00:00.000000,right,Czech Republic,England,2021-06-11 14:12:58.835670,29,England Leagues
+Pavel Kadeřábek ,Hoffenheim,Czech Republic,Defender,182,81,1992-04-25 00:00:00.000000,right,Czech Republic,Germany,2021-06-11 14:12:58.835670,29,Germany Leagues
+Tomáš Kalas ,Bristol City,Czech Republic,Defender,183,80,1993-05-15 00:00:00.000000,right,Czech Republic,England,2021-06-11 14:12:58.835670,28,England Leagues
+Tomáš Holeš ,Slavia Praha,Czech Republic,Defender,180,73,1993-03-31 00:00:00.000000,right,Czech Republic,Czech Republic,2021-06-11 14:12:58.835670,28,Czech Republic Leagues
+Aleš Matějů ,Brescia,Czech Republic,Defender,185,84,1996-06-03 00:00:00.000000,right,Czech Republic,Italy,2021-06-11 14:12:58.835670,25,Italy Leagues
+David Zima ,Slavia Praha,Czech Republic,Defender,175,75,1991-01-11 00:00:00.000000,right,Czech Republic,Czech Republic,2021-06-11 14:12:58.835670,30,Czech Republic Leagues
+Antonín Barák ,Verona,Czech Republic,Midfielder,190,86,1994-12-03 00:00:00.000000,left,Czech Republic,Italy,2021-06-11 14:12:58.835670,27,Italy Leagues
+Vladimír Darida ,Hertha Berlin,Czech Republic,Midfielder,172,67,1990-08-08 00:00:00.000000,right,Czech Republic,Germany,2021-06-11 14:12:58.835670,31,Germany Leagues
+Jakub Jankto ,Sampdoria,Czech Republic,Midfielder,184,74,1996-01-19 00:00:00.000000,left,Czech Republic,Italy,2021-06-11 14:12:58.835670,25,Italy Leagues
+Alex Král ,Spartak Moskva,Czech Republic,Midfielder,186,76,1998-05-19 00:00:00.000000,right,Czech Republic,Russia,2021-06-11 14:12:58.835670,23,Russia Leagues
+Lukáš Masopust ,Slavia Praha,Czech Republic,Midfielder,179,76,1993-02-12 00:00:00.000000,right,Czech Republic,Czech Republic,2021-06-11 14:12:58.835670,28,Czech Republic Leagues
+Jakub Pešek ,Sparta Praha,Czech Republic,Midfielder,187,84,1999-04-20 00:00:00.000000,left,Czech Republic,Czech Republic,2021-06-11 14:12:58.835670,22,Czech Republic Leagues
+Michal Sadílek ,Liberec,Czech Republic,Midfielder,169,61,1999-05-31 00:00:00.000000,left,Czech Republic,Czech Republic,2021-06-11 14:12:58.835670,22,Czech Republic Leagues
+Petr Ševčík ,Slavia Praha,Czech Republic,Midfielder,172,66,1994-05-04 00:00:00.000000,right,Czech Republic,Czech Republic,2021-06-11 14:12:58.835670,27,Czech Republic Leagues
+Tomáš Souček ,West Ham,Czech Republic,Midfielder,192,86,1995-02-27 00:00:00.000000,right,Czech Republic,England,2021-06-11 14:12:58.835670,26,England Leagues
+Adam Hložek ,Sparta Praha,Czech Republic,Forward,185,80,2002-07-25 00:00:00.000000,right,Czech Republic,Czech Republic,2021-06-11 14:12:58.835670,19,Czech Republic Leagues
+Michael Krmenčík ,PAOK,Czech Republic,Forward,191,93,1993-03-15 00:00:00.000000,right,Czech Republic,Greece,2021-06-11 14:12:58.835670,28,Greece Leagues
+Tomáš Pekhart ,Legia,Czech Republic,Forward,194,91,1989-05-26 00:00:00.000000,right,Czech Republic,Poland,2021-06-11 14:12:58.835670,32,Poland Leagues
+Patrik Schick ,Leverkusen,Czech Republic,Forward,187,73,1996-01-24 00:00:00.000000,left,Czech Republic,Germany,2021-06-11 14:12:58.835670,25,Germany Leagues
+Matěj Vydra ,Burnley,Czech Republic,Forward,180,71,1992-05-01 00:00:00.000000,right,Czech Republic,England,2021-06-11 14:12:58.835670,29,England Leagues
+David de Gea ,Manchester United,Spain,Goalkeeper,193,82,1990-11-07 00:00:00.000000,right,Spain,England,2021-06-11 14:12:58.835670,31,England Leagues
+Unai Simón ,Athletic,Spain,Goalkeeper,190,89,1997-06-11 00:00:00.000000,right,Spain,Spain,2021-06-11 14:12:58.835670,24,Spain Leagues
+Robert Sánchez ,Brighton & Hove Albion,Spain,Goalkeeper,197,85,1997-11-18 00:00:00.000000,right,Spain,England,2021-06-11 14:12:58.835670,24,England Leagues
+José Gayà ,Valencia,Spain,Defender,172,66,1995-05-25 00:00:00.000000,left,Spain,Spain,2021-06-11 14:12:58.835670,26,Spain Leagues
+Jordi Alba ,Barcelona,Spain,Defender,170,68,1989-03-21 00:00:00.000000,left,Spain,Spain,2021-06-11 14:12:58.835670,32,Spain Leagues
+Pau Torres ,Villarreal,Spain,Defender,191,80,1997-01-16 00:00:00.000000,left,Spain,Spain,2021-06-11 14:12:58.835670,24,Spain Leagues
+Aymeric Laporte ,Manchester City,Spain,Defender,191,86,1994-05-27 00:00:00.000000,left,France,England,2021-06-11 14:12:58.835670,27,England Leagues
+Eric García ,Manchester City,Spain,Defender,182,76,2001-01-09 00:00:00.000000,right,Spain,England,2021-06-11 14:12:58.835670,20,England Leagues
+Diego Llorente ,Leeds United,Spain,Defender,186,76,1993-08-16 00:00:00.000000,right,Spain,England,2021-06-11 14:12:58.835670,28,England Leagues
+César Azpilicueta ,Chelsea,Spain,Defender,178,77,1989-08-28 00:00:00.000000,right,Spain,England,2021-06-11 14:12:58.835670,32,England Leagues
+Marcos Llorente ,Atlético,Spain,Defender,184,74,1995-01-30 00:00:00.000000,right,Spain,Spain,2021-06-11 14:12:58.835670,26,Spain Leagues
+Sergio Busquets ,Barcelona,Spain,Midfielder,189,76,1988-07-16 00:00:00.000000,right,Spain,Spain,2021-06-11 14:12:58.835670,33,Spain Leagues
+Rodri Hernández ,Manchester City,Spain,Midfielder,191,82,1996-06-22 00:00:00.000000,right,Spain,England,2021-06-11 14:12:58.835670,25,England Leagues
+Pedri ,Barcelona,Spain,Midfielder,174,60,2002-11-25 00:00:00.000000,right,Spain,Spain,2021-06-11 14:12:58.835670,19,Spain Leagues
+Thiago Alcántara ,Liverpool,Spain,Midfielder,174,70,1991-04-11 00:00:00.000000,right,Spain,England,2021-06-11 14:12:58.835670,30,England Leagues
+Koke ,Atlético,Spain,Midfielder,176,75,1992-01-08 00:00:00.000000,right,Spain,Spain,2021-06-11 14:12:58.835670,29,Spain Leagues
+Fabián Ruiz ,Napoli,Spain,Midfielder,189,70,1996-04-03 00:00:00.000000,left,Spain,Italy,2021-06-11 14:12:58.835670,25,Italy Leagues
+Dani Olmo ,Leipzig,Spain,Forward,179,72,1998-05-07 00:00:00.000000,right,Spain,Germany,2021-06-11 14:12:58.835670,23,Germany Leagues
+Mikel Oyarzabal ,Real Sociedad,Spain,Forward,181,79,1997-04-21 00:00:00.000000,left,Spain,Spain,2021-06-11 14:12:58.835670,24,Spain Leagues
+Gerard Moreno ,Villarreal,Spain,Forward,180,77,1992-04-07 00:00:00.000000,left,Spain,Spain,2021-06-11 14:12:58.835670,29,Spain Leagues
+Álvaro Morata ,Juventus,Spain,Forward,189,85,1992-10-23 00:00:00.000000,right,Spain,Italy,2021-06-11 14:12:58.835670,29,Italy Leagues
+Ferran Torres ,Manchester City,Spain,Forward,184,77,2000-02-29 00:00:00.000000,right,Spain,England,2021-06-11 14:12:58.835670,21,England Leagues
+Adama Traoré ,Wolves,Spain,Forward,178,72,1996-01-25 00:00:00.000000,right,Spain,England,2021-06-11 14:12:58.835670,25,England Leagues
+Pablo Sarabia ,PSG,Spain,Forward,174,70,1992-05-11 00:00:00.000000,left,Spain,France,2021-06-11 14:12:58.835670,29,France Leagues
+Karl-Johan Johnsson ,København,Sweden,Goalkeeper,189,84,1990-01-28 00:00:00.000000,right,Sweden,Denmark,2021-06-11 14:12:58.835670,31,Denmark Leagues
+Kristoffer Nordfeldt ,Gençlerbirliği,Sweden,Goalkeeper,190,85,1989-06-23 00:00:00.000000,right,Sweden,Turkey,2021-06-11 14:12:58.835670,32,Turkey Leagues
+Robin Olsen ,Everton,Sweden,Goalkeeper,196,86,1990-01-08 00:00:00.000000,right,Sweden,England,2021-06-11 14:12:58.835670,31,England Leagues
+Emil Krafth ,Newcastle United,Sweden,Defender,184,83,1994-08-02 00:00:00.000000,right,Sweden,England,2021-06-11 14:12:58.835670,27,England Leagues
+Victor Lindelöf ,Manchester United,Sweden,Defender,187,81,1994-07-17 00:00:00.000000,right,Sweden,England,2021-06-11 14:12:58.835670,27,England Leagues
+Marcus Danielson ,Dalian Yifang,Sweden,Defender,192,81,1989-04-08 00:00:00.000000,right,Sweden,China PR,2021-06-11 14:12:58.835670,32,China PR Leagues
+Pierre Bengtsson ,Vejle,Sweden,Defender,175,72,1988-04-12 00:00:00.000000,left,Sweden,Denmark,2021-06-11 14:12:58.835670,33,Denmark Leagues
+Ludwig Augustinsson ,Werder Bremen,Sweden,Defender,181,76,1994-04-21 00:00:00.000000,left,Sweden,Germany,2021-06-11 14:12:58.835670,27,Germany Leagues
+Pontus Jansson ,Brentford,Sweden,Defender,194,86,1991-02-13 00:00:00.000000,right,Sweden,England,2021-06-11 14:12:58.835670,30,England Leagues
+Filip Helander ,Rangers,Sweden,Defender,192,84,1993-04-22 00:00:00.000000,left,Sweden,Scotland,2021-06-11 14:12:58.835670,28,Scotland Leagues
+Mikael Lustig ,AIK,Sweden,Defender,189,77,1986-12-13 00:00:00.000000,right,Sweden,Sweden,2021-06-11 14:12:58.835670,35,Sweden Leagues
+Andreas Granqvist ,Helsingborg,Sweden,Defender,192,84,1985-04-16 00:00:00.000000,right,Sweden,Sweden,2021-06-11 14:12:58.835670,36,Sweden Leagues
+Emil Forsberg ,Leipzig,Sweden,Midfielder,177,76,1991-10-23 00:00:00.000000,right,Sweden,Germany,2021-06-11 14:12:58.835670,30,Germany Leagues
+Ken Sema ,Watford,Sweden,Midfielder,180,69,1993-09-30 00:00:00.000000,left,Sweden,England,2021-06-11 14:12:58.835670,28,England Leagues
+Viktor Claesson ,Krasnodar,Sweden,Midfielder,183,79,1992-01-02 00:00:00.000000,right,Sweden,Russia,2021-06-11 14:12:58.835670,29,Russia Leagues
+Dejan Kulusevski ,Juventus,Sweden,Midfielder,186,79,2000-04-25 00:00:00.000000,left,Sweden,Italy,2021-06-11 14:12:58.835670,21,Italy Leagues
+Sebastian Larsson ,AIK,Sweden,Midfielder,177,74,1985-06-06 00:00:00.000000,right,Sweden,Sweden,2021-06-11 14:12:58.835670,36,Sweden Leagues
+Albin Ekdal ,Sampdoria,Sweden,Midfielder,186,82,1989-07-28 00:00:00.000000,right,Sweden,Italy,2021-06-11 14:12:58.835670,32,Italy Leagues
+Kristoffer Olsson ,Krasnodar,Sweden,Midfielder,178,70,1995-06-30 00:00:00.000000,right,Sweden,Russia,2021-06-11 14:12:58.835670,26,Russia Leagues
+Jens-Lys Cajuste ,Midtjylland,Sweden,Midfielder,188,77,1999-08-10 00:00:00.000000,right,Sweden,Denmark,2021-06-11 14:12:58.835670,22,Denmark Leagues
+Mattias Svanberg ,Bologna,Sweden,Midfielder,185,77,1999-01-05 00:00:00.000000,right,Sweden,Italy,2021-06-11 14:12:58.835670,22,Italy Leagues
+Gustav Svensson ,Guangzhou,Sweden,Midfielder,184,83,1987-02-07 00:00:00.000000,right,Sweden,China PR,2021-06-11 14:12:58.835670,34,China PR Leagues
+Marcus Berg ,Krasnodar,Sweden,Forward,183,76,1986-08-17 00:00:00.000000,right,Sweden,Russia,2021-06-11 14:12:58.835670,35,Russia Leagues
+Alexander Isak ,Real Sociedad,Sweden,Forward,192,77,1999-09-21 00:00:00.000000,right,Sweden,Spain,2021-06-11 14:12:58.835670,22,Spain Leagues
+Robin Quaison ,Mainz,Sweden,Forward,183,77,1993-10-09 00:00:00.000000,right,Sweden,Germany,2021-06-11 14:12:58.835670,28,Germany Leagues
+Jordan Larsson ,Spartak Moskva,Sweden,Forward,175,68,1997-06-20 00:00:00.000000,left,Netherlands,Russia,2021-06-11 14:12:58.835670,24,Russia Leagues
+Łukasz Fabiański ,West Ham,Poland,Goalkeeper,190,83,1985-04-18 00:00:00.000000,right,Poland,England,2021-06-11 14:12:58.835670,36,England Leagues
+Łukasz Skorupski ,Bologna,Poland,Goalkeeper,187,84,1991-05-05 00:00:00.000000,right,Poland,Italy,2021-06-11 14:12:58.835670,30,Italy Leagues
+Wojciech Szczęsny ,Juventus,Poland,Goalkeeper,195,90,1990-04-18 00:00:00.000000,right,Poland,Italy,2021-06-11 14:12:58.835670,31,Italy Leagues
+Jan Bednarek ,Southampton,Poland,Defender,189,77,1996-04-12 00:00:00.000000,right,Poland,England,2021-06-11 14:12:58.835670,25,England Leagues
+Bartosz Bereszyński ,Sampdoria,Poland,Defender,183,77,1992-07-12 00:00:00.000000,right,Poland,Italy,2021-06-11 14:12:58.835670,29,Italy Leagues
+Kamil Glik ,Benevento,Poland,Defender,190,80,1988-02-03 00:00:00.000000,right,Poland,Italy,2021-06-11 14:12:58.835670,33,Italy Leagues
+Michał Helik ,Barnsley,Poland,Defender,191,80,1995-09-09 00:00:00.000000,right,Poland,England,2021-06-11 14:12:58.835670,26,England Leagues
+Tomasz Kędziora ,Dynamo Kyiv,Poland,Defender,183,78,1994-06-11 00:00:00.000000,right,Poland,Ukraine,2021-06-11 14:12:58.835670,27,Ukraine Leagues
+Kamil Piątkowski ,Raków Częstochowa,Poland,Defender,191,81,2000-06-21 00:00:00.000000,right,Poland,Poland,2021-06-11 14:12:58.835670,21,Poland Leagues
+Tymoteusz Puchacz ,Lech Poznań,Poland,Defender,180,74,1999-01-23 00:00:00.000000,left,Poland,Poland,2021-06-11 14:12:58.835670,22,Poland Leagues
+Maciej Rybus ,Lokomotiv Moskva,Poland,Defender,173,75,1989-08-19 00:00:00.000000,left,Poland,Russia,2021-06-11 14:12:58.835670,32,Russia Leagues
+Paweł Dawidowicz ,Verona,Poland,Midfielder,189,80,1995-05-20 00:00:00.000000,right,Poland,Italy,2021-06-11 14:12:58.835670,26,Italy Leagues
+Przemysław Frankowski ,Chicago Fire,Poland,Midfielder,176,70,1995-04-12 00:00:00.000000,right,Poland,United States,2021-06-11 14:12:58.835670,26,United States Leagues
+Kamil Jóźwiak ,Derby,Poland,Midfielder,176,70,1998-04-22 00:00:00.000000,right,Poland,England,2021-06-11 14:12:58.835670,23,England Leagues
+Mateusz Klich ,Leeds,Poland,Midfielder,183,82,1990-06-13 00:00:00.000000,right,Poland,England,2021-06-11 14:12:58.835670,31,England Leagues
+Kacper Kozłowski ,Pogoń Szczecin,Poland,Midfielder,177,67,2003-10-16 00:00:00.000000,right,Poland,Poland,2021-06-11 14:12:58.835670,18,Poland Leagues
+Grzegorz Krychowiak ,Lokomotiv Moskva,Poland,Midfielder,187,84,1990-01-29 00:00:00.000000,right,Poland,Russia,2021-06-11 14:12:58.835670,31,Russia Leagues
+Karol Linetty ,Torino,Poland,Midfielder,176,73,1995-02-02 00:00:00.000000,right,Poland,Italy,2021-06-11 14:12:58.835670,26,Italy Leagues
+Jakub Moder ,Brighton,Poland,Midfielder,188,78,1999-04-07 00:00:00.000000,right,Poland,England,2021-06-11 14:12:58.835670,22,England Leagues
+Przemysław Płacheta ,Norwich,Poland,Midfielder,177,72,1998-03-23 00:00:00.000000,left,Poland,England,2021-06-11 14:12:58.835670,23,England Leagues
+Piotr Zieliński ,Napoli,Poland,Midfielder,180,75,1994-05-20 00:00:00.000000,right,Poland,Italy,2021-06-11 14:12:58.835670,27,Italy Leagues
+Dawid Kownacki ,Fortuna Düsseldorf,Poland,Forward,186,75,1997-03-14 00:00:00.000000,right,Poland,Germany,2021-06-11 14:12:58.835670,24,Germany Leagues
+Robert Lewandowski ,Bayern,Poland,Forward,184,80,1988-08-21 00:00:00.000000,right,Poland,Germany,2021-06-11 14:12:58.835670,33,Germany Leagues
+Arkadiusz Milik ,Marseille,Poland,Forward,186,78,1994-02-28 00:00:00.000000,left,Poland,France,2021-06-11 14:12:58.835670,27,France Leagues
+Karol Świderski ,PAOK,Poland,Forward,184,78,1997-01-23 00:00:00.000000,left,Poland,Greece,2021-06-11 14:12:58.835670,24,Greece Leagues
+Jakub Świerczok ,Piast Gliwice,Poland,Forward,179,75,1992-12-28 00:00:00.000000,right,Poland,Poland,2021-06-11 14:12:58.835670,28,Poland Leagues
+Martin Dúbravka ,Newcastle,Slovakia,Goalkeeper,190,80,1989-01-15 00:00:00.000000,right,Slovakia,England,2021-06-11 14:12:58.835670,32,England Leagues
+Marek Rodák ,Fulham,Slovakia,Goalkeeper,194,81,1996-12-13 00:00:00.000000,right,Slovakia,England,2021-06-11 14:12:58.835670,25,England Leagues
+Dušan Kuciak ,Lechia Gdańsk,Slovakia,Goalkeeper,194,92,1985-05-21 00:00:00.000000,right,Slovakia,Poland,2021-06-11 14:12:58.835670,36,Poland Leagues
+Peter Pekarík ,Hertha Berlin,Slovakia,Defender,177,73,1986-10-30 00:00:00.000000,right,Slovakia,Germany,2021-06-11 14:12:58.835670,35,Germany Leagues
+Ľubomír Šatka ,Lech Poznań,Slovakia,Defender,188,78,1995-12-02 00:00:00.000000,right,Slovakia,Poland,2021-06-11 14:12:58.835670,26,Poland Leagues
+Denis Vavro ,Huesca,Slovakia,Defender,189,81,1996-04-10 00:00:00.000000,right,Slovakia,Spain,2021-06-11 14:12:58.835670,25,Spain Leagues
+Milan Škriniar ,Inter Milan,Slovakia,Defender,188,79,1995-02-11 00:00:00.000000,right,Slovakia,Italy,2021-06-11 14:12:58.835670,26,Italy Leagues
+Tomáš Hubočan ,Omonoia,Slovakia,Defender,183,70,1985-09-17 00:00:00.000000,right,Slovakia,Cyprus,2021-06-11 14:12:58.835670,36,Cyprus Leagues
+Dávid Hancko ,Sparta Praha,Slovakia,Defender,188,78,1997-12-13 00:00:00.000000,left,Slovakia,Czech Republic,2021-06-11 14:12:58.835670,24,Czech Republic Leagues
+Martin Koscelník ,Liberec,Slovakia,Defender,179,75,1995-03-02 00:00:00.000000,right,Slovakia,Czech Republic,2021-06-11 14:12:58.835670,26,Czech Republic Leagues
+Martin Valjent ,Mallorca,Slovakia,Defender,187,83,1995-12-11 00:00:00.000000,right,Slovakia,Spain,2021-06-11 14:12:58.835670,26,Spain Leagues
+Marek Hamšík ,IFK Göteborg,Slovakia,Midfielder,183,79,1987-07-27 00:00:00.000000,right,Slovakia,Sweden,2021-06-11 14:12:58.835670,34,Sweden Leagues
+Stanislav Lobotka ,Napoli,Slovakia,Midfielder,170,64,1994-11-25 00:00:00.000000,right,Slovakia,Italy,2021-06-11 14:12:58.835670,27,Italy Leagues
+Patrik Hrošovský ,Genk,Slovakia,Midfielder,172,69,1992-04-22 00:00:00.000000,right,Slovakia,Belgium,2021-06-11 14:12:58.835670,29,Belgium Leagues
+Juraj Kucka ,Parma,Slovakia,Midfielder,186,86,1987-02-26 00:00:00.000000,right,Slovakia,Italy,2021-06-11 14:12:58.835670,34,Italy Leagues
+Ondrej Duda ,Köln,Slovakia,Midfielder,181,75,1994-12-05 00:00:00.000000,right,Slovakia,Germany,2021-06-11 14:12:58.835670,27,Germany Leagues
+Róbert Mak ,Ferencváros,Slovakia,Midfielder,179,75,1991-03-08 00:00:00.000000,right,Slovakia,Hungary,2021-06-11 14:12:58.835670,30,Hungary Leagues
+Vladimír Weiss ,Slovan Bratislava,Slovakia,Midfielder,175,70,1989-11-30 00:00:00.000000,right,Slovakia,Slovakia,2021-06-11 14:12:58.835670,32,Slovakia Leagues
+László Bénes ,Augsburg,Slovakia,Midfielder,181,72,1997-09-09 00:00:00.000000,left,Slovakia,Germany,2021-06-11 14:12:58.835670,24,Germany Leagues
+Lukáš Haraslín ,Sassuolo,Slovakia,Midfielder,182,71,1996-05-26 00:00:00.000000,right,Slovakia,Italy,2021-06-11 14:12:58.835670,25,Italy Leagues
+Jakub Hromada ,Slavia Praha,Slovakia,Midfielder,180,76,1996-06-25 00:00:00.000000,right,Slovakia,Czech Republic,2021-06-11 14:12:58.835670,25,Czech Republic Leagues
+Tomáš Suslov ,Groningen,Slovakia,Midfielder,175,65,2002-06-07 00:00:00.000000,left,Slovakia,Netherlands,2021-06-11 14:12:58.835670,19,Netherlands Leagues
+Ján Greguš ,Minnesota,Slovakia,Midfielder,189,70,1991-01-29 00:00:00.000000,right,Slovakia,United States,2021-06-11 14:12:58.835670,30,United States Leagues
+Michal Ďuriš ,Omonoia,Slovakia,Forward,183,75,1988-06-01 00:00:00.000000,right,Slovakia,Cyprus,2021-06-11 14:12:58.835670,33,Cyprus Leagues
+Róbert Boženík ,Feyenoord,Slovakia,Forward,188,81,1999-11-18 00:00:00.000000,right,Slovakia,Netherlands,2021-06-11 14:12:58.835670,22,Netherlands Leagues
+Ivan Schranz ,Jablonec,Slovakia,Forward,185,79,1993-09-13 00:00:00.000000,right,Slovakia,Czech Republic,2021-06-11 14:12:58.835670,28,Czech Republic Leagues
+Manuel Neuer ,Bayern,Germany,Goalkeeper,193,92,1986-03-27 00:00:00.000000,right,Germany,Germany,2021-06-11 14:12:58.835670,35,Germany Leagues
+Bernd Leno ,Arsenal,Germany,Goalkeeper,189,78,1992-03-04 00:00:00.000000,right,Germany,England,2021-06-11 14:12:58.835670,29,England Leagues
+Kevin Trapp ,Frankfurt,Germany,Goalkeeper,189,88,1990-09-08 00:00:00.000000,right,Germany,Germany,2021-06-11 14:12:58.835670,31,Germany Leagues
+Emre Can ,Dortmund,Germany,Defender,186,86,1994-01-12 00:00:00.000000,right,Turkey,Germany,2021-06-11 14:12:58.835670,27,Germany Leagues
+Matthias Ginter ,Mönchengladbach,Germany,Defender,191,86,1994-01-19 00:00:00.000000,right,Germany,Germany,2021-06-11 14:12:58.835670,27,Germany Leagues
+Robin Gosens ,Atalanta,Germany,Defender,183,76,1994-06-05 00:00:00.000000,left,Netherlands,Italy,2021-06-11 14:12:58.835670,27,Italy Leagues
+Christian Günter ,Freiburg,Germany,Defender,185,87,1993-02-28 00:00:00.000000,left,Germany,Germany,2021-06-11 14:12:58.835670,28,Germany Leagues
+Marcel Halstenberg ,Leipzig,Germany,Defender,188,87,1991-09-27 00:00:00.000000,left,Germany,Germany,2021-06-11 14:12:58.835670,30,Germany Leagues
+Mats Hummels ,Dortmund,Germany,Defender,191,94,1988-12-16 00:00:00.000000,right,Germany,Germany,2021-06-11 14:12:58.835670,33,Germany Leagues
+Lukas Klostermann ,Leipzig,Germany,Defender,187,88,1996-06-03 00:00:00.000000,right,Germany,Germany,2021-06-11 14:12:58.835670,25,Germany Leagues
+Robin Koch ,Leeds,Germany,Defender,192,83,1996-07-17 00:00:00.000000,right,Germany,England,2021-06-11 14:12:58.835670,25,England Leagues
+Antonio Rüdiger ,Chelsea,Germany,Defender,190,85,1993-03-03 00:00:00.000000,right,Sierra Leone,England,2021-06-11 14:12:58.835670,28,England Leagues
+Niklas Süle ,Bayern,Germany,Defender,195,97,1995-09-03 00:00:00.000000,right,Germany,Germany,2021-06-11 14:12:58.835670,26,Germany Leagues
+Serge Gnabry ,Bayern,Germany,Midfielder,175,75,1995-07-14 00:00:00.000000,right,Côte d'Ivoire,Germany,2021-06-11 14:12:58.835670,26,Germany Leagues
+Leon Goretzka ,Bayern,Germany,Midfielder,189,76,1995-02-06 00:00:00.000000,right,Germany,Germany,2021-06-11 14:12:58.835670,26,Germany Leagues
+İlkay Gündoğan ,Manchester City,Germany,Midfielder,180,80,1990-10-24 00:00:00.000000,right,Germany,England,2021-06-11 14:12:58.835670,31,England Leagues
+Jonas Hofmann ,Mönchengladbach,Germany,Midfielder,176,73,1992-07-14 00:00:00.000000,right,Germany,Germany,2021-06-11 14:12:58.835670,29,Germany Leagues
+Joshua Kimmich ,Bayern,Germany,Midfielder,176,73,1995-02-08 00:00:00.000000,right,Germany,Germany,2021-06-11 14:12:58.835670,26,Germany Leagues
+Toni Kroos ,Real Madrid,Germany,Midfielder,183,76,1990-01-04 00:00:00.000000,right,Germany,Spain,2021-06-11 14:12:58.835670,31,Spain Leagues
+Jamal Musiala ,Bayern,Germany,Midfielder,183,68,2003-02-26 00:00:00.000000,right,England,Germany,2021-06-11 14:12:58.835670,18,Germany Leagues
+Florian Neuhaus ,Mönchengladbach,Germany,Midfielder,185,74,1997-03-16 00:00:00.000000,right,Germany,Germany,2021-06-11 14:12:58.835670,24,Germany Leagues
+Leroy Sané ,Bayern,Germany,Midfielder,184,75,1996-01-11 00:00:00.000000,left,France,Germany,2021-06-11 14:12:58.835670,25,Germany Leagues
+Kai Havertz ,Chelsea,Germany,Forward,180,76,1996-03-06 00:00:00.000000,right,Germany,England,2021-06-11 14:12:58.835670,25,England Leagues
+Thomas Müller ,Bayern,Germany,Forward,186,75,1989-09-13 00:00:00.000000,right,Germany,Germany,2021-06-11 14:12:58.835670,32,Germany Leagues
+Kevin Volland ,Monaco,Germany,Forward,179,83,1992-07-30 00:00:00.000000,left,Germany,Monaco,2021-06-11 14:12:58.835670,29,Monaco Leagues
+Timo Werner ,Chelsea,Germany,Forward,180,76,1996-03-06 00:00:00.000000,right,Germany,England,2021-06-11 14:12:58.835670,25,England Leagues
+Ádám Bogdán ,Ferencváros,Hungary,Goalkeeper,194,92,1987-09-27 00:00:00.000000,right,Hungary,Hungary,2021-06-11 14:12:58.835670,34,Hungary Leagues
+Dénes Dibusz ,Ferencváros,Hungary,Goalkeeper,188,81,1990-11-16 00:00:00.000000,right,Hungary,Hungary,2021-06-11 14:12:58.835670,31,Hungary Leagues
+Péter Gulácsi ,Leipzig,Hungary,Goalkeeper,191,86,1990-05-06 00:00:00.000000,right,Hungary,Germany,2021-06-11 14:12:58.835670,31,Germany Leagues
+Bendegúz Bolla ,Fehérvár,Hungary,Defender,177,63,1999-11-22 00:00:00.000000,right,Hungary,Hungary,2021-06-11 14:12:58.835670,22,Hungary Leagues
+Endre Botka ,Ferencváros,Hungary,Defender,178,77,1994-08-25 00:00:00.000000,right,Hungary,Hungary,2021-06-11 14:12:58.835670,27,Hungary Leagues
+Attila Fiola ,Fehérvár,Hungary,Defender,182,70,1990-02-17 00:00:00.000000,right,Hungary,Hungary,2021-06-11 14:12:58.835670,31,Hungary Leagues
+Ákos Kecskés ,Lugano,Hungary,Defender,190,85,1996-01-04 00:00:00.000000,right,Hungary,Switzerland,2021-06-11 14:12:58.835670,25,Switzerland Leagues
+Ádám Lang ,Omonia Nicosia,Hungary,Defender,188,81,1993-01-17 00:00:00.000000,right,Hungary,Cyprus,2021-06-11 14:12:58.835670,28,Cyprus Leagues
+Gergő Lovrencsics ,Ferencváros,Hungary,Defender,177,77,1988-09-01 00:00:00.000000,right,Hungary,Hungary,2021-06-11 14:12:58.835670,33,Hungary Leagues
+Loïc Négo ,Fehérvár,Hungary,Defender,181,71,1991-01-15 00:00:00.000000,right,Hungary,Hungary,2021-06-11 14:12:58.835670,30,Hungary Leagues
+Willi Orbán ,Leipzig,Hungary,Defender,186,87,1992-11-03 00:00:00.000000,right,Germany,Germany,2021-06-11 14:12:58.835670,29,Germany Leagues
+Attila Szalai ,Fenerbahçe,Hungary,Defender,192,83,1998-01-20 00:00:00.000000,left,Hungary,Turkey,2021-06-11 14:12:58.835670,23,Turkey Leagues
+Tamás Cseri ,Mezőkövesd,Hungary,Midfielder,174,76,1988-01-15 00:00:00.000000,right,Hungary,Hungary,2021-06-11 14:12:58.835670,33,Hungary Leagues
+Dániel Gazdag ,Philadelphia Union,Hungary,Midfielder,178,76,1996-03-02 00:00:00.000000,right,Hungary,United States,2021-06-11 14:12:58.835670,25,United States Leagues
+László Kleinheisler ,Osijek,Hungary,Midfielder,173,70,1994-04-08 00:00:00.000000,right,Hungary,Croatia,2021-06-11 14:12:58.835670,27,Croatia Leagues
+Ádám Nagy ,Bristol City,Hungary,Midfielder,178,70,1995-06-17 00:00:00.000000,right,Hungary,England,2021-06-11 14:12:58.835670,26,England Leagues
+András Schäfer ,Dunajská Streda,Hungary,Midfielder,180,70,1999-04-13 00:00:00.000000,right,Hungary,Slovakia,2021-06-11 14:12:58.835670,22,Slovakia Leagues
+Dávid Sigér ,Ferencváros,Hungary,Midfielder,175,69,1990-11-30 00:00:00.000000,right,Hungary,Hungary,2021-06-11 14:12:58.835670,31,Hungary Leagues
+Kevin Varga ,Kasımpaşa,Hungary,Midfielder,178,72,1996-03-30 00:00:00.000000,right,Hungary,Turkey,2021-06-11 14:12:58.835670,25,Turkey Leagues
+Roland Varga ,MTK Budapest,Hungary,Midfielder,182,79,1990-01-23 00:00:00.000000,right,Hungary,Hungary,2021-06-11 14:12:58.835670,31,Hungary Leagues
+János Hahn ,Paks,Hungary,Forward,183,70,1995-03-15 00:00:00.000000,right,Hungary,Hungary,2021-06-11 14:12:58.835670,26,Hungary Leagues
+Filip Holender ,Partizan,Hungary,Forward,180,73,1994-07-27 00:00:00.000000,right,Hungary,Serbia,2021-06-11 14:12:58.835670,27,Serbia Leagues
+Nemanja Nikolić ,Fehérvár,Hungary,Forward,180,80,1987-12-31 00:00:00.000000,right,Serbia,Hungary,2021-06-11 14:12:58.835670,33,Hungary Leagues
+Roland Sallai ,Freiburg,Hungary,Forward,182,77,1997-05-22 00:00:00.000000,right,Hungary,Germany,2021-06-11 14:12:58.835670,24,Germany Leagues
+Szabolcs Schön ,FC Dallas,Hungary,Forward,0,0,2000-09-27 00:00:00.000000,left,Hungary,United States,2021-06-11 14:12:58.835670,21,United States Leagues
+Ádám Szalai ,Mainz,Hungary,Forward,193,93,1987-12-09 00:00:00.000000,right,Hungary,Germany,2021-06-11 14:12:58.835670,34,Germany Leagues
+Anthony Lopes ,Lyon,Portugal,Goalkeeper,184,81,1990-10-01 00:00:00.000000,left,France,France,2021-06-11 14:12:58.835670,31,France Leagues
+Rui Patrício ,Wolves,Portugal,Goalkeeper,190,84,1988-02-15 00:00:00.000000,left,Portugal,England,2021-06-11 14:12:58.835670,33,England Leagues
+Rui Silva ,Granada,Portugal,Goalkeeper,189,85,1994-02-07 00:00:00.000000,right,Portugal,Spain,2021-06-11 14:12:58.835670,27,Spain Leagues
+João Cancelo ,Manchester City,Portugal,Defender,182,74,1994-05-27 00:00:00.000000,right,Portugal,England,2021-06-11 14:12:58.835670,27,England Leagues
+Rúben Dias ,Manchester City,Portugal,Defender,186,82,1997-05-14 00:00:00.000000,right,Portugal,England,2021-06-11 14:12:58.835670,24,England Leagues
+José Fonte ,LOSC Lille,Portugal,Defender,191,83,1983-12-22 00:00:00.000000,right,Portugal,France,2021-06-11 14:12:58.835670,37,France Leagues
+Raphael Guerreiro ,Dortmund,Portugal,Defender,170,71,1993-12-22 00:00:00.000000,left,France,Germany,2021-06-11 14:12:58.835670,27,Germany Leagues
+Nuno Mendes ,Sporting CP,Portugal,Defender,176,70,2002-06-19 00:00:00.000000,left,Portugal,Portugal,2021-06-11 14:12:58.835670,19,Portugal Leagues
+Pepe ,Porto,Portugal,Defender,188,81,1983-02-26 00:00:00.000000,right,Brazil,Portugal,2021-06-11 14:12:58.835670,38,Portugal Leagues
+Nélson Semedo ,Wolves,Portugal,Defender,177,67,1993-11-16 00:00:00.000000,right,Portugal,England,2021-06-11 14:12:58.835670,28,England Leagues
+William Carvalho ,Real Betis,Portugal,Midfielder,187,79,1992-04-07 00:00:00.000000,right,Angola,Spain,2021-06-11 14:12:58.835670,29,Spain Leagues
+Danilo ,PSG,Portugal,Midfielder,187,83,1991-09-09 00:00:00.000000,right,Portugal,France,2021-06-11 14:12:58.835670,30,France Leagues
+Bruno Fernandes ,Manchester United,Portugal,Midfielder,179,69,1994-09-08 00:00:00.000000,right,Portugal,England,2021-06-11 14:12:58.835670,27,England Leagues
+Gonçalo Guedes ,Valencia,Portugal,Midfielder,179,70,1996-11-29 00:00:00.000000,right,Portugal,Spain,2021-06-11 14:12:58.835670,25,Spain Leagues
+João Moutinho ,Wolves,Portugal,Midfielder,170,61,1986-09-08 00:00:00.000000,right,Portugal,England,2021-06-11 14:12:58.835670,35,England Leagues
+Rúben Neves ,Wolves,Portugal,Midfielder,180,80,1997-03-13 00:00:00.000000,right,Portugal,England,2021-06-11 14:12:58.835670,24,England Leagues
+Sérgio Oliveira ,Porto,Portugal,Midfielder,181,82,1992-06-02 00:00:00.000000,right,Portugal,Portugal,2021-06-11 14:12:58.835670,29,Portugal Leagues
+João Palhinha ,Sporting CP,Portugal,Midfielder,190,82,1995-07-09 00:00:00.000000,right,Portugal,Portugal,2021-06-11 14:12:58.835670,26,Portugal Leagues
+Pote ,Sporting CP,Portugal,Midfielder,173,65,1998-06-28 00:00:00.000000,right,Portugal,Portugal,2021-06-11 14:12:58.835670,23,Portugal Leagues
+Renato Sanches ,LOSC Lille,Portugal,Midfielder,176,70,1997-08-18 00:00:00.000000,right,Portugal,France,2021-06-11 14:12:58.835670,24,France Leagues
+Bernardo Silva ,Manchester City,Portugal,Midfielder,173,64,1994-08-10 00:00:00.000000,left,Portugal,England,2021-06-11 14:12:58.835670,27,England Leagues
+João Félix ,Atlético Madrid,Portugal,Forward,181,72,1999-11-10 00:00:00.000000,right,Portugal,Spain,2021-06-11 14:12:58.835670,22,Spain Leagues
+Diogo Jota ,Liverpool,Portugal,Forward,178,73,1996-12-04 00:00:00.000000,right,Portugal,England,2021-06-11 14:12:58.835670,25,England Leagues
+Cristiano Ronaldo ,Juventus,Portugal,Forward,187,84,1985-02-05 00:00:00.000000,right,Portugal,Italy,2021-06-11 14:12:58.835670,36,Italy Leagues
+André Silva ,Eintracht Frankfurt,Portugal,Forward,184,74,1995-11-06 00:00:00.000000,right,Portugal,Germany,2021-06-11 14:12:58.835670,26,Germany Leagues
+Rafa Silva ,Benfica,Portugal,Forward,172,66,1993-05-17 00:00:00.000000,right,Portugal,Portugal,2021-06-11 14:12:58.835670,28,Portugal Leagues
+Hugo Lloris ,Tottenham,France,Goalkeeper,188,82,1986-12-26 00:00:00.000000,left,France,England,2021-06-11 14:12:58.835670,34,England Leagues
+Mike Maignan ,Milan,France,Goalkeeper,191,91,1995-07-03 00:00:00.000000,right,France,France,2021-06-11 14:12:58.835670,26,France Leagues
+Steve Mandanda ,Marseille,France,Goalkeeper,185,82,1985-03-28 00:00:00.000000,right,France,France,2021-06-11 14:12:58.835670,36,France Leagues
+Lucas Digne ,Everton,France,Defender,178,74,1993-07-20 00:00:00.000000,left,France,England,2021-06-11 14:12:58.835670,28,England Leagues
+Léo Dubois ,Lyon,France,Defender,178,64,1994-09-14 00:00:00.000000,right,France,France,2021-06-11 14:12:58.835670,27,France Leagues
+Lucas Hernández ,Bayern,France,Defender,182,76,1996-02-14 00:00:00.000000,left,Spain,Germany,2021-06-11 14:12:58.835670,25,Germany Leagues
+Presnel Kimpembe ,PSG,France,Defender,183,77,1995-08-13 00:00:00.000000,left,Congo DR,France,2021-06-11 14:12:58.835670,26,France Leagues
+Jules Koundé ,Sevilla,France,Defender,180,75,1998-11-12 00:00:00.000000,right,France,Spain,2021-06-11 14:12:58.835670,23,Spain Leagues
+Clément Lenglet ,Barcelona,France,Defender,186,81,1995-06-17 00:00:00.000000,left,France,Spain,2021-06-11 14:12:58.835670,26,Spain Leagues
+Benjamin Pavard ,Bayern,France,Defender,186,78,1996-03-28 00:00:00.000000,right,France,Germany,2021-06-11 14:12:58.835670,25,Germany Leagues
+Raphaël Varane ,Real Madrid,France,Defender,191,81,1993-04-25 00:00:00.000000,right,Martinique,Spain,2021-06-11 14:12:58.835670,28,Spain Leagues
+Kurt Zouma ,Chelsea,France,Defender,190,95,1994-10-27 00:00:00.000000,right,Central African Republic,England,2021-06-11 14:12:58.835670,27,England Leagues
+Kingsley Coman ,Bayern,France,Midfielder,179,75,1996-06-13 00:00:00.000000,right,Guadeloupe,Germany,2021-06-11 14:12:58.835670,25,Germany Leagues
+N’Golo Kanté ,Chelsea,France,Midfielder,168,70,1991-03-29 00:00:00.000000,right,Mali,England,2021-06-11 14:12:58.835670,30,England Leagues
+Thomas Lemar ,Atlético Madrid,France,Midfielder,171,66,1995-11-12 00:00:00.000000,left,France,Spain,2021-06-11 14:12:58.835670,26,Spain Leagues
+Paul Pogba ,Manchester United,France,Midfielder,191,84,1993-03-15 00:00:00.000000,right,France,England,2021-06-11 14:12:58.835670,28,England Leagues
+Adrien Rabiot ,Juventus,France,Midfielder,188,71,1995-04-03 00:00:00.000000,left,France,Italy,2021-06-11 14:12:58.835670,26,Italy Leagues
+Moussa Sissoko ,Tottenham,France,Midfielder,187,91,1989-08-16 00:00:00.000000,right,Mali,England,2021-06-11 14:12:58.835670,32,England Leagues
+Corentin Tolisso ,Bayern,France,Midfielder,181,81,1994-08-03 00:00:00.000000,right,France,Germany,2021-06-11 14:12:58.835670,27,Germany Leagues
+Wissam Ben Yedder ,Monaco,France,Forward,170,68,1990-08-12 00:00:00.000000,right,Tunisia,Monaco,2021-06-11 14:12:58.835670,31,Monaco Leagues
+Karim Benzema ,Real Madrid,France,Forward,185,81,1987-12-19 00:00:00.000000,both,France,Spain,2021-06-11 14:12:58.835670,34,Spain Leagues
+Ousmane Dembélé ,Barcelona,France,Forward,178,67,1997-05-15 00:00:00.000000,both,Mauritania,Spain,2021-06-11 14:12:58.835670,24,Spain Leagues
+Olivier Giroud ,Chelsea,France,Forward,193,91,1986-09-30 00:00:00.000000,left,France,England,2021-06-11 14:12:58.835670,35,England Leagues
+Antoine Griezmann ,Barcelona,France,Forward,176,73,1991-03-21 00:00:00.000000,left,France,Spain,2021-06-11 14:12:58.835670,30,Spain Leagues
+Kylian Mbappé ,PSG,France,Forward,178,73,1998-12-20 00:00:00.000000,right,France,France,2021-06-11 14:12:58.835670,22,France Leagues
+Marcus Thuram ,Mönchengladbach,France,Forward,192,88,1997-08-06 00:00:00.000000,right,France,Germany,2021-06-11 14:12:58.835670,24,Germany Leagues
